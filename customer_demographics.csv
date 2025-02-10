@@ -1,0 +1,1001 @@
+CustomerID,Name,Age,Gender,Occupation,City,State,AccountOpenDate,AccountType,AverageBalance,CreditScore,IncomeRange
+123970,Hitesh Atwal,50,Female,Business,Suryapet,Sikkim,2024-10-31,Savings,292891.62,452,5-10L
+329017,Sanya Ravi,60,Other,Homemaker,Dewas,Jharkhand,2021-07-04,Current,191672.38,326,20L+
+335739,Baghyawati Kale,64,Female,Business,Amritsar,Uttar Pradesh,2024-03-28,Current,465509.47,838,10-20L
+471842,Frederick Wason,40,Male,Business,Solapur,Gujarat,2021-03-17,Fixed Deposit,163864.0,344,5-10L
+765169,Falan Dugar,65,Other,Business,Shimoga,Uttarakhand,2023-08-27,Fixed Deposit,312324.25,682,20L+
+939786,Ekavir Narula,61,Female,Business,Junagadh,Madhya Pradesh,2025-01-04,Savings,390805.91,350,10-20L
+888349,Brijesh Nagi,51,Other,Doctor,Malda,Haryana,2023-07-07,Savings,477379.92,570,5-10L
+861441,Ryan Ranganathan,47,Male,Engineer,Berhampur,Andhra Pradesh,2023-04-12,Savings,495519.88,626,10-20L
+983561,Ekansh Shankar,58,Female,Business,Bhalswa Jahangir Pur,Odisha,2023-01-08,Current,466712.99,889,20L+
+362071,Qasim Pau,25,Female,Engineer,Anantapur,Madhya Pradesh,2024-10-02,Current,23733.02,303,5-10L
+292717,Tarak Dhingra,25,Female,Business,Jaipur,Tripura,2023-10-07,Savings,211401.76,407,20L+
+109969,Umang Rajan,26,Other,Teacher,Satara,Jharkhand,2025-01-16,Savings,137522.4,666,0-5L
+462280,Matthew Bhalla,57,Female,Homemaker,Patna,Meghalaya,2025-01-04,Fixed Deposit,295028.02,645,5-10L
+916743,Divya Mani,34,Male,Student,Farrukhabad,Gujarat,2022-09-09,Current,131046.01,345,10-20L
+488252,Janaki Sen,53,Other,Student,Kulti,Manipur,2024-04-17,Fixed Deposit,463350.83,502,20L+
+492743,Dev Sangha,51,Female,Engineer,Jabalpur,Nagaland,2024-11-13,Fixed Deposit,27290.45,350,20L+
+354097,Fitan Devi,44,Female,Homemaker,Karaikudi,Bihar,2022-01-14,Fixed Deposit,192797.57,828,5-10L
+568770,Idika Agarwal,63,Other,Doctor,Karimnagar,Bihar,2020-10-26,Fixed Deposit,27083.28,577,20L+
+235292,Azaan Vaidya,37,Female,Student,Srikakulam,Meghalaya,2024-05-02,Current,177592.92,395,5-10L
+685719,Faras Luthra,68,Other,Doctor,Loni,Gujarat,2023-05-03,Current,385172.94,587,0-5L
+303590,Dayamai Bath,31,Other,Doctor,Pimpri-Chinchwad,Andhra Pradesh,2023-07-04,Fixed Deposit,105269.31,308,0-5L
+102707,Warjas Bumb,44,Other,Business,Jehanabad,Sikkim,2022-02-16,Current,187951.1,666,0-5L
+94413,William Pandey,59,Other,Homemaker,Visakhapatnam,Odisha,2024-07-03,Savings,211466.35,611,10-20L
+670950,Odika Handa,67,Female,Engineer,Sonipat,Nagaland,2021-04-22,Savings,398294.26,747,0-5L
+678704,Joshua Chaudhuri,67,Female,Student,Gandhinagar,Andhra Pradesh,2023-03-23,Fixed Deposit,2013.98,880,20L+
+604305,Vrishti Gupta,68,Other,Teacher,Unnao,Himachal Pradesh,2020-07-02,Current,339732.84,632,5-10L
+717024,Hemang Baral,21,Other,Engineer,Jhansi,Jharkhand,2023-10-09,Savings,63446.43,831,10-20L
+105887,Vasudha Batta,36,Other,Teacher,Thane,Uttarakhand,2020-03-01,Current,215301.37,839,0-5L
+659939,Maanav Mukhopadhyay,61,Other,Business,Singrauli,Madhya Pradesh,2021-01-28,Savings,233317.58,547,20L+
+701550,Zashil Bakshi,67,Other,Business,Ongole,Chhattisgarh,2020-05-15,Current,328866.1,521,5-10L
+995504,Nisha Varma,42,Female,Engineer,Bettiah,Maharashtra,2023-03-31,Current,127481.79,721,0-5L
+665344,Vedant Agate,35,Other,Engineer,Kalyan-Dombivli,Tripura,2021-09-11,Fixed Deposit,134120.78,596,5-10L
+90686,Robert Ganesh,57,Male,Doctor,Nanded,Odisha,2023-06-19,Fixed Deposit,444475.27,443,10-20L
+998505,Zarna Dass,47,Male,Student,Akola,Kerala,2023-07-11,Savings,344413.19,385,5-10L
+31869,Charvi Shere,46,Female,Engineer,Hubli–Dharwad,Tripura,2025-01-08,Fixed Deposit,478989.79,370,0-5L
+634537,Ganga Sekhon,38,Male,Business,Arrah,Haryana,2021-08-06,Savings,133023.26,745,10-20L
+66502,Hemangini Edwin,53,Other,Homemaker,Udaipur,Karnataka,2024-10-04,Fixed Deposit,44825.31,872,20L+
+614247,Brijesh Sami,65,Female,Doctor,Alappuzha,Sikkim,2022-09-15,Savings,447943.3,444,0-5L
+325095,Sarthak Gola,68,Other,Homemaker,Gangtok,Kerala,2024-05-04,Fixed Deposit,487597.1,761,20L+
+569078,Zayyan Narain,30,Other,Teacher,Miryalaguda,Maharashtra,2021-01-11,Current,329154.65,864,0-5L
+677751,Kalpit Minhas,39,Male,Business,Gaya,Tripura,2024-09-03,Fixed Deposit,111441.45,500,20L+
+840250,Urvashi Kala,44,Other,Teacher,Bokaro,Telangana,2021-12-26,Fixed Deposit,390111.84,703,10-20L
+579252,Vedika Chopra,37,Other,Teacher,Durgapur,Arunachal Pradesh,2023-08-19,Current,128599.62,857,10-20L
+159600,Raksha Barad,57,Female,Homemaker,Amritsar,Tamil Nadu,2021-04-07,Savings,372638.09,660,20L+
+675167,Anika Srinivas,52,Female,Doctor,Agartala,Nagaland,2023-11-17,Savings,383211.37,759,20L+
+840076,Advika Kaur,25,Male,Student,Madanapalle,Odisha,2024-03-24,Current,186333.84,441,20L+
+748548,Jeremiah Gala,60,Other,Student,Ranchi,Bihar,2024-03-05,Savings,170316.21,316,0-5L
+745425,Tarak Baral,50,Male,Student,Jalgaon,Tripura,2021-09-06,Current,218484.55,352,5-10L
+992133,Pavani Mohanty,42,Male,Business,Jorhat,Manipur,2022-05-13,Current,111875.86,878,20L+
+660587,Zayan Contractor,52,Other,Engineer,Aligarh,Uttar Pradesh,2021-08-03,Savings,7556.45,682,5-10L
+268729,Rudra Guha,39,Female,Engineer,Latur,Andhra Pradesh,2024-08-30,Current,176648.66,441,10-20L
+712988,Chaman Khalsa,42,Female,Teacher,Kharagpur,Maharashtra,2022-08-15,Fixed Deposit,252656.31,334,0-5L
+481689,Lakshmi Virk,22,Female,Student,South Dumdum,Bihar,2020-04-30,Fixed Deposit,122480.76,301,5-10L
+337573,Dhruv Solanki,33,Male,Engineer,Tinsukia,Tamil Nadu,2021-09-20,Current,354478.41,707,20L+
+720809,Baghyawati Loke,57,Male,Homemaker,Arrah,Haryana,2024-04-13,Fixed Deposit,424018.63,503,5-10L
+916450,Qasim Sankar,54,Other,Homemaker,Vasai-Virar,Karnataka,2020-07-25,Fixed Deposit,344155.73,559,5-10L
+624454,Qarin Setty,64,Male,Doctor,Hosur,Odisha,2020-05-27,Fixed Deposit,359153.82,422,5-10L
+439791,Gautami Keer,19,Male,Homemaker,Medininagar,Uttarakhand,2021-05-27,Fixed Deposit,100804.53,721,5-10L
+485108,Nirja Tak,59,Other,Student,Bharatpur,Nagaland,2024-04-23,Current,162423.33,426,10-20L
+721438,Ekavir Edwin,47,Male,Doctor,Hajipur,Tamil Nadu,2020-03-14,Fixed Deposit,356388.81,688,0-5L
+986045,Anjali Sekhon,61,Other,Business,Satara,Odisha,2022-08-19,Savings,422489.26,679,10-20L
+68056,Lekha Mistry,19,Male,Homemaker,Moradabad,Telangana,2022-02-03,Current,293584.36,578,20L+
+818624,Hamsini Panchal,55,Male,Student,Ulhasnagar,Assam,2021-05-17,Current,251645.41,367,0-5L
+189638,Anmol Tara,48,Other,Teacher,Aurangabad,Bihar,2023-04-21,Savings,40701.88,694,20L+
+108665,Gautam Saha,38,Female,Engineer,Dibrugarh,Maharashtra,2023-06-20,Current,86185.05,645,5-10L
+168574,Quincy Sandal,36,Male,Teacher,Guwahati,Assam,2022-01-27,Fixed Deposit,80761.16,649,20L+
+643772,Jagat Dugar,41,Other,Engineer,Ghaziabad,Mizoram,2020-02-18,Savings,228519.37,378,20L+
+166212,Nidhi Malhotra,36,Female,Teacher,Jalgaon,Tamil Nadu,2020-04-13,Current,310639.37,777,0-5L
+582757,Chaaya Puri,67,Other,Teacher,Visakhapatnam,Jharkhand,2024-07-28,Current,217469.34,816,10-20L
+194620,Devansh Saxena,60,Other,Business,Dharmavaram,Chhattisgarh,2024-01-22,Savings,397249.92,414,0-5L
+966622,Bachittar Swamy,59,Male,Doctor,Maheshtala,Uttarakhand,2021-12-09,Current,315548.6,701,10-20L
+955563,Jagat Dubey,19,Male,Teacher,Kumbakonam,Uttarakhand,2021-01-19,Savings,380937.36,667,0-5L
+493707,Pooja Rai,68,Other,Engineer,Vijayanagaram,Kerala,2021-09-23,Savings,423023.9,499,0-5L
+560612,Priya Badal,38,Other,Student,Ichalkaranji,West Bengal,2024-02-03,Fixed Deposit,217066.87,459,20L+
+543391,Oscar Murthy,53,Female,Student,Thiruvananthapuram,Maharashtra,2022-08-21,Current,185411.9,729,0-5L
+694924,Finn Palla,22,Other,Homemaker,Bally,Madhya Pradesh,2020-07-01,Fixed Deposit,339825.52,508,10-20L
+791446,Lohit Sood,35,Male,Business,Junagadh,Telangana,2021-01-02,Savings,150110.78,637,10-20L
+955117,Zehaan Anne,68,Male,Engineer,Bhopal,Tamil Nadu,2023-03-25,Current,343712.37,590,20L+
+316301,Parth Palan,63,Other,Teacher,Aurangabad,Mizoram,2021-07-03,Fixed Deposit,328394.21,591,20L+
+76076,Peter Shan,23,Male,Doctor,Meerut,Odisha,2020-10-17,Current,167762.05,461,5-10L
+666750,Megha Bhavsar,36,Other,Business,Chandigarh,Kerala,2022-04-08,Current,281776.22,482,10-20L
+798022,Kiaan Minhas,61,Male,Teacher,Nagpur,Karnataka,2020-10-29,Fixed Deposit,404600.36,607,10-20L
+508967,Zayan Nanda,55,Female,Student,Moradabad,Sikkim,2021-04-15,Current,230624.51,830,0-5L
+103647,Yashoda Bhardwaj,69,Male,Teacher,Nangloi Jat,Mizoram,2021-07-31,Current,479434.7,314,10-20L
+705856,Pallavi Sidhu,18,Female,Doctor,Aizawl,Nagaland,2020-10-16,Current,93156.25,320,20L+
+72518,Vyanjana Halder,56,Male,Business,Ujjain,Haryana,2022-10-06,Fixed Deposit,95942.91,385,20L+
+275953,Chaitaly Nayak,39,Female,Doctor,Jalgaon,Karnataka,2022-11-12,Current,144385.22,722,20L+
+727653,Osha Mitter,23,Male,Student,Kirari Suleman Nagar,Gujarat,2020-09-23,Fixed Deposit,32867.03,301,10-20L
+827417,Kamala Malhotra,23,Female,Teacher,Ulhasnagar,Tripura,2022-03-10,Savings,399467.94,689,10-20L
+207030,Yutika Wable,63,Other,Student,Bihar Sharif,Telangana,2024-01-07,Current,458598.34,411,20L+
+137610,Arya Memon,66,Male,Doctor,Raipur,Punjab,2021-05-29,Current,106952.3,473,0-5L
+776002,Wyatt Khatri,19,Other,Doctor,Tadepalligudem,Manipur,2024-06-18,Current,410098.03,835,10-20L
+128599,Urmi Sarraf,23,Male,Business,Lucknow,Tamil Nadu,2020-08-16,Current,351830.66,753,10-20L
+410590,Gabriel Sheth,34,Other,Student,Jehanabad,Nagaland,2020-12-22,Savings,37573.51,504,0-5L
+216544,Udarsh Solanki,20,Female,Student,Agra,Himachal Pradesh,2024-10-22,Current,70352.04,717,20L+
+781435,Chaman Lalla,38,Female,Student,Agartala,Mizoram,2022-05-14,Current,106597.87,427,5-10L
+58471,Triya Dasgupta,64,Other,Teacher,Bhiwani,Assam,2023-01-23,Current,24731.56,632,5-10L
+80920,Tripti Mannan,47,Other,Doctor,Tirunelveli,Punjab,2020-11-20,Current,100071.54,453,10-20L
+634287,Isha Purohit,66,Other,Homemaker,New Delhi,Punjab,2021-06-06,Savings,256195.41,438,0-5L
+82353,Ridhi Sharma,61,Male,Business,Muzaffarpur,Uttar Pradesh,2024-06-16,Savings,193249.14,477,5-10L
+652004,Vrishti Pai,19,Male,Doctor,Gaya,Arunachal Pradesh,2020-02-13,Fixed Deposit,152260.04,753,5-10L
+729143,Ria Mitter,56,Male,Student,Tirunelveli,Arunachal Pradesh,2022-04-18,Savings,251190.16,548,0-5L
+867389,Vrishti Wagle,69,Female,Doctor,Khammam,Punjab,2023-05-01,Current,57123.01,507,10-20L
+418034,Vrishti Parmer,61,Male,Homemaker,Ramgarh,Uttar Pradesh,2020-08-15,Fixed Deposit,413304.03,470,0-5L
+631825,Zarna Reddy,38,Other,Business,Mau,Andhra Pradesh,2021-09-02,Fixed Deposit,252515.57,349,10-20L
+231338,Siya Wali,20,Other,Business,Jalna,Tripura,2023-10-21,Savings,316244.24,349,0-5L
+602302,Leena Karan,44,Male,Student,Sambalpur,Arunachal Pradesh,2020-04-23,Fixed Deposit,498837.1,345,5-10L
+21286,Netra Char,50,Other,Homemaker,Jabalpur,Uttar Pradesh,2020-03-14,Current,234228.77,535,10-20L
+470085,Arjun Kalla,49,Male,Homemaker,Machilipatnam,Karnataka,2022-11-23,Current,406626.77,718,5-10L
+948630,Lila Buch,36,Other,Business,Sangli-Miraj & Kupwad,Maharashtra,2024-07-10,Fixed Deposit,359249.26,577,0-5L
+337688,Yachana Mahal,66,Male,Student,North Dumdum,Tripura,2023-11-19,Current,355987.88,713,0-5L
+540832,Tarak Wali,41,Female,Student,Surat,Haryana,2023-05-12,Savings,388064.95,832,5-10L
+259408,Yahvi Chaudhry,51,Female,Student,Surendranagar Dudhrej,Karnataka,2021-12-06,Savings,88271.05,635,5-10L
+110809,Ekansh Johal,21,Male,Teacher,Durg,Jharkhand,2025-01-18,Fixed Deposit,263835.08,490,0-5L
+976436,Peter Dani,60,Female,Student,Srikakulam,Bihar,2021-09-19,Savings,166183.89,868,0-5L
+267528,Lakshit Srinivasan,68,Other,Student,Ambarnath,Arunachal Pradesh,2020-12-19,Current,262772.83,736,10-20L
+581311,Wyatt Mangat,45,Other,Homemaker,Jalandhar,Mizoram,2020-11-19,Fixed Deposit,477593.51,803,5-10L
+58720,Vyanjana Sandal,48,Male,Engineer,Katni,Uttar Pradesh,2023-01-06,Savings,436083.97,838,5-10L
+536358,Kevin Srinivas,31,Female,Business,Medininagar,Gujarat,2024-01-06,Fixed Deposit,118582.98,703,0-5L
+90138,Bhavika Nagi,24,Male,Doctor,Raichur,Andhra Pradesh,2022-07-17,Fixed Deposit,467826.93,843,0-5L
+846387,Chaitanya Sethi,53,Male,Homemaker,Parbhani,Kerala,2021-06-25,Fixed Deposit,217667.32,471,5-10L
+100132,Daksha Joshi,29,Female,Engineer,Bellary,Kerala,2022-09-04,Fixed Deposit,330322.96,803,10-20L
+803949,Krishna Tak,44,Female,Business,Kalyan-Dombivli,Assam,2024-07-07,Savings,82384.98,829,20L+
+170854,Widisha Halder,29,Other,Homemaker,Bhiwani,Gujarat,2021-10-29,Fixed Deposit,244017.26,347,20L+
+998655,Ijaya Khatri,67,Male,Doctor,Thanjavur,Kerala,2024-10-04,Current,313410.99,518,5-10L
+532438,Charita Randhawa,30,Female,Business,Kottayam,Manipur,2020-09-23,Current,7914.76,374,0-5L
+151323,Chandran Brahmbhatt,61,Male,Homemaker,Mathura,Maharashtra,2022-11-12,Current,427462.17,739,5-10L
+339154,Faris Bose,49,Female,Business,Berhampur,Manipur,2024-07-19,Current,317437.39,565,0-5L
+498086,Atharv Narula,41,Female,Business,Amritsar,Nagaland,2020-09-11,Fixed Deposit,271029.33,820,5-10L
+704667,Nirja Vig,60,Other,Student,Amravati,Arunachal Pradesh,2024-12-13,Savings,372357.63,455,5-10L
+291778,Imaran Karnik,39,Female,Business,Dharmavaram,Arunachal Pradesh,2022-11-03,Savings,371464.86,386,10-20L
+323568,Sudiksha Lad,32,Male,Engineer,Kottayam,Manipur,2021-02-21,Current,89175.24,816,0-5L
+297816,Aditya Goda,40,Other,Business,Dibrugarh,Assam,2024-03-12,Fixed Deposit,378279.61,514,20L+
+368508,Leela Sachdeva,41,Other,Student,Bhavnagar,Himachal Pradesh,2021-03-07,Savings,124720.74,570,5-10L
+583166,Bhavya Natarajan,30,Other,Student,Begusarai,Assam,2020-10-24,Fixed Deposit,422532.86,489,5-10L
+860431,Abha Chaudhary,65,Other,Homemaker,Raipur,Rajasthan,2022-05-04,Fixed Deposit,405074.1,648,0-5L
+511045,Dayita Char,47,Other,Student,Malegaon,Maharashtra,2022-11-21,Current,117593.03,522,20L+
+355039,Urmi Char,31,Female,Homemaker,Sambalpur,Haryana,2024-12-16,Savings,181026.99,532,5-10L
+193796,Advay Dara,19,Male,Business,Raipur,Rajasthan,2021-03-25,Current,73441.78,664,20L+
+932123,Shravya Rout,62,Other,Business,Etawah,Maharashtra,2021-04-17,Savings,193126.7,886,0-5L
+673274,Imaran Sanghvi,38,Other,Business,Gandhinagar,Rajasthan,2024-01-18,Fixed Deposit,479859.19,828,10-20L
+62326,Inaya Manne,54,Male,Engineer,Ghaziabad,Odisha,2020-03-25,Savings,148040.69,575,5-10L
+186641,Charita Bedi,31,Female,Engineer,Danapur,Telangana,2024-02-11,Fixed Deposit,421548.44,411,10-20L
+555455,Lekha Dyal,47,Other,Homemaker,Jalandhar,Haryana,2025-01-14,Current,122957.92,580,0-5L
+264359,Hritik Khalsa,59,Male,Student,Latur,Kerala,2022-01-28,Fixed Deposit,143319.35,864,5-10L
+726908,Abha Palla,66,Other,Business,Patiala,Uttar Pradesh,2023-02-07,Savings,32712.97,756,10-20L
+991084,Wishi Munshi,59,Other,Homemaker,Bhalswa Jahangir Pur,Punjab,2022-09-22,Fixed Deposit,167512.44,554,0-5L
+551096,Manthan Bir,68,Other,Doctor,Proddatur,Karnataka,2024-08-02,Current,130679.3,530,20L+
+957390,Girik Patla,20,Female,Teacher,Chennai,Himachal Pradesh,2020-10-23,Current,123158.55,355,10-20L
+165838,Qadim Aurora,59,Female,Business,Saharanpur,Jharkhand,2020-03-23,Fixed Deposit,295362.88,349,20L+
+225297,Karan Sane,57,Male,Student,Etawah,Uttarakhand,2020-07-10,Savings,380291.35,396,0-5L
+717623,Chandran Sura,60,Male,Business,Guwahati,Goa,2020-05-03,Current,22998.04,877,20L+
+277368,Chasmum Sachdev,41,Male,Engineer,Sultan Pur Majra,Andhra Pradesh,2020-02-15,Savings,354410.2,320,0-5L
+921883,Anjali Balay,21,Other,Engineer,Tezpur,Tamil Nadu,2022-11-03,Current,203989.53,747,20L+
+365201,Yatan Shetty,58,Female,Student,Pali,Assam,2021-12-16,Fixed Deposit,398126.02,769,0-5L
+554711,Yash Tella,68,Other,Homemaker,Sambalpur,Uttar Pradesh,2024-07-27,Current,352250.12,460,0-5L
+284103,Qabil Sankaran,48,Other,Business,Hubli–Dharwad,Karnataka,2022-09-25,Savings,409620.64,563,0-5L
+170666,Chakradhar Ramanathan,36,Female,Doctor,Raiganj,Punjab,2024-11-09,Savings,25593.5,665,10-20L
+313521,Riya Chaudhuri,34,Male,Student,Begusarai,Madhya Pradesh,2024-12-26,Savings,54730.13,605,5-10L
+251981,Warinder Balan,20,Female,Engineer,Thrissur,Sikkim,2024-05-12,Fixed Deposit,159481.44,450,5-10L
+786045,Barkha Edwin,21,Male,Doctor,Guntur,Tamil Nadu,2023-03-25,Fixed Deposit,84610.16,829,10-20L
+191143,Balhaar Bhat,20,Other,Teacher,Latur,Tripura,2021-11-24,Fixed Deposit,486812.93,664,10-20L
+533737,Vasudha Sidhu,23,Other,Teacher,Ambattur,Tripura,2024-06-30,Savings,446341.66,465,20L+
+748416,Hiral Parsa,41,Female,Teacher,Pallavaram,Gujarat,2024-02-18,Savings,66165.18,550,5-10L
+436797,Ronith Srivastava,68,Other,Student,Raichur,Manipur,2022-09-10,Savings,184095.28,671,20L+
+732777,Abhiram Mall,32,Female,Business,Tadepalligudem,Jharkhand,2022-01-24,Current,424404.36,395,0-5L
+63336,Warinder Randhawa,68,Female,Business,Jabalpur,Haryana,2024-12-27,Savings,443021.5,442,20L+
+856024,Lucky Tiwari,55,Male,Engineer,Bhopal,Uttar Pradesh,2023-11-19,Current,111686.09,715,20L+
+411756,Jeremiah Pant,20,Other,Homemaker,Agra,Arunachal Pradesh,2021-02-17,Savings,393747.66,561,20L+
+366995,Dhriti Keer,23,Male,Engineer,Avadi,Assam,2023-12-25,Fixed Deposit,485991.73,524,20L+
+307612,Lekha Sankar,19,Female,Engineer,Sonipat,Manipur,2021-08-28,Current,236006.91,415,0-5L
+617187,Yagnesh Nayar,39,Female,Doctor,Jalgaon,Meghalaya,2021-01-09,Current,443659.73,620,5-10L
+928970,Arin Memon,39,Other,Teacher,Chinsurah,Nagaland,2021-10-25,Current,21631.94,433,5-10L
+69800,George Venkatesh,24,Other,Business,Asansol,Chhattisgarh,2022-02-06,Fixed Deposit,420146.9,756,5-10L
+126597,Atharv Mittal,67,Female,Homemaker,Jhansi,Madhya Pradesh,2020-05-12,Current,7129.25,821,0-5L
+982733,Aashi Ghosh,23,Female,Teacher,Satna,Gujarat,2024-03-19,Fixed Deposit,297416.75,340,20L+
+792976,Dev Shan,27,Male,Student,Tiruvottiyur,Chhattisgarh,2023-12-07,Fixed Deposit,263552.24,698,10-20L
+667828,Panini Lad,48,Male,Business,Guwahati,Chhattisgarh,2021-06-30,Fixed Deposit,282524.5,705,10-20L
+474363,Faqid Date,29,Male,Teacher,Tumkur,Karnataka,2020-04-19,Savings,198307.67,329,10-20L
+543970,Hiral Kari,47,Male,Student,Etawah,Assam,2022-06-27,Current,38865.64,460,10-20L
+712634,Warhi Deo,52,Female,Student,Bathinda,Uttar Pradesh,2021-12-03,Fixed Deposit,248380.02,696,10-20L
+56534,Jack Deo,63,Other,Doctor,Bhalswa Jahangir Pur,Himachal Pradesh,2020-09-05,Current,287537.95,406,0-5L
+308580,Saksham Nigam,38,Male,Teacher,Gurgaon,Assam,2021-10-16,Current,481506.64,305,10-20L
+604932,Libni Lata,19,Male,Student,Jammu,Himachal Pradesh,2023-09-13,Savings,302801.97,302,0-5L
+848052,Amara Yogi,56,Other,Student,Thanjavur,Jharkhand,2021-06-05,Savings,255410.06,620,20L+
+545631,Warhi Tella,18,Other,Student,Bettiah,Uttar Pradesh,2022-01-05,Savings,234091.3,773,20L+
+31433,Harini Dora,21,Other,Engineer,Mirzapur,Haryana,2021-01-18,Savings,24940.18,791,0-5L
+845666,Pooja Raja,25,Female,Student,Raebareli,Punjab,2023-11-03,Current,217305.54,432,10-20L
+489322,Suhani Bath,52,Other,Doctor,Satna,Punjab,2021-04-21,Fixed Deposit,58796.44,333,0-5L
+516395,Nandini Dhar,45,Other,Teacher,Ajmer,Uttarakhand,2020-06-18,Savings,405704.32,489,5-10L
+475927,Neelima Bobal,41,Male,Teacher,Tumkur,Tamil Nadu,2022-07-17,Fixed Deposit,436107.46,853,20L+
+585223,Amrita Chandra,49,Other,Teacher,Faridabad,Tamil Nadu,2021-11-25,Fixed Deposit,220980.87,541,5-10L
+628160,Chatresh Chhabra,30,Female,Business,Jodhpur,Gujarat,2020-08-17,Current,92476.91,317,10-20L
+719638,Falak Gara,67,Other,Business,Karimnagar,Bihar,2023-06-29,Fixed Deposit,205700.34,765,5-10L
+75682,Omaja Batta,63,Other,Doctor,Hosur,Uttar Pradesh,2020-12-08,Savings,493473.36,440,20L+
+64355,Aahana Patla,40,Other,Doctor,New Delhi,Maharashtra,2022-08-27,Savings,31078.39,533,20L+
+97949,Tarak Grewal,29,Female,Doctor,Kolhapur,Haryana,2021-09-23,Savings,445095.54,545,10-20L
+141739,Lipika Pal,50,Male,Engineer,South Dumdum,Mizoram,2024-08-21,Savings,276207.37,850,5-10L
+942511,Ekta Goel,66,Female,Homemaker,Gudivada,Maharashtra,2020-06-07,Savings,67420.75,846,0-5L
+149771,Anirudh Bahl,24,Male,Doctor,Lucknow,Tripura,2024-12-16,Current,48120.49,727,0-5L
+880034,Ekaja Grewal,20,Other,Homemaker,Gangtok,West Bengal,2024-04-20,Savings,476598.59,726,5-10L
+726545,Isaac Bedi,60,Male,Business,Haridwar,Chhattisgarh,2024-09-23,Savings,413550.25,766,20L+
+539438,Zayan Pathak,54,Male,Student,Bhind,Kerala,2022-02-24,Savings,145019.36,760,0-5L
+886133,Kai Patel,56,Other,Engineer,Kirari Suleman Nagar,Andhra Pradesh,2024-02-15,Savings,167544.19,659,10-20L
+369255,Wridesh Kakar,53,Other,Homemaker,Imphal,Madhya Pradesh,2024-04-10,Savings,372865.0,434,5-10L
+364251,Nidhi Bhalla,44,Female,Teacher,Kurnool,Karnataka,2020-12-19,Fixed Deposit,164450.31,583,0-5L
+282576,Mitali Prashad,31,Other,Teacher,Ballia,Tamil Nadu,2021-02-08,Current,164327.28,539,5-10L
+365397,Ryan Saraf,56,Other,Teacher,Hosur,Punjab,2022-08-02,Current,414178.76,577,5-10L
+510846,Vasana Gaba,18,Female,Engineer,Imphal,Andhra Pradesh,2022-07-26,Savings,431644.9,441,20L+
+468075,Vansha Ramesh,28,Other,Homemaker,Siliguri,Uttarakhand,2024-02-24,Savings,111619.57,865,20L+
+574099,Tripti Kalla,64,Other,Teacher,Danapur,Tamil Nadu,2020-03-27,Savings,279424.66,675,20L+
+794496,Aditya Kumar,55,Male,Doctor,Howrah,Mizoram,2021-01-24,Current,106685.27,449,5-10L
+176638,Nathan Barad,67,Other,Student,Gopalpur,Odisha,2021-03-28,Savings,250253.65,316,5-10L
+780107,Frederick Gulati,56,Female,Teacher,Solapur,Assam,2023-06-29,Savings,425568.82,446,10-20L
+379514,Yashica Mander,62,Female,Student,Alwar,Madhya Pradesh,2021-06-11,Current,384636.09,481,0-5L
+909901,Advik Sachdeva,27,Female,Business,Gaya,Haryana,2024-11-12,Savings,386393.7,898,5-10L
+704783,Eiravati Sidhu,50,Other,Business,Sonipat,Himachal Pradesh,2021-10-24,Fixed Deposit,286333.17,627,0-5L
+551532,Advaith Desai,59,Female,Teacher,Malegaon,Arunachal Pradesh,2024-06-13,Fixed Deposit,378876.04,455,5-10L
+493898,Kritika Kant,40,Other,Business,Panvel,Telangana,2024-03-14,Fixed Deposit,23544.94,351,0-5L
+986209,Nitesh Kibe,40,Male,Homemaker,Naihati,Goa,2023-07-19,Savings,361243.03,870,10-20L
+497496,Gagan Mittal,43,Other,Homemaker,Adoni,Madhya Pradesh,2020-08-26,Savings,436892.72,800,20L+
+400232,Dev Varughese,61,Other,Business,Bhagalpur,Odisha,2023-08-02,Current,239413.85,894,5-10L
+312553,Vrinda Sankar,61,Other,Business,Mangalore,Himachal Pradesh,2021-04-01,Fixed Deposit,424990.88,361,20L+
+294508,Ira Menon,20,Male,Teacher,Jalgaon,Maharashtra,2024-06-01,Savings,63871.37,739,10-20L
+951824,Madhavi Wali,30,Male,Engineer,Vijayawada,Meghalaya,2021-03-07,Savings,133330.84,427,5-10L
+612530,Bhanumati Chokshi,37,Male,Doctor,Dehri,Chhattisgarh,2021-04-12,Savings,125471.72,617,0-5L
+689709,Idika Sabharwal,56,Female,Engineer,Ahmednagar,Arunachal Pradesh,2023-03-15,Savings,217007.65,471,20L+
+750791,Rushil Edwin,22,Male,Doctor,Aurangabad,Arunachal Pradesh,2021-04-13,Current,179872.86,347,0-5L
+671366,Darpan Nazareth,36,Other,Student,Guwahati,Manipur,2020-12-03,Current,62028.27,745,0-5L
+98073,Urmi Khosla,68,Male,Engineer,Morena,Chhattisgarh,2024-06-15,Current,7780.92,621,5-10L
+9593,Gayathri Kamdar,53,Female,Engineer,Rajpur Sonarpur,Tamil Nadu,2021-02-23,Savings,208386.1,535,20L+
+720791,Kashvi Bains,64,Other,Homemaker,Bilaspur,West Bengal,2024-07-10,Current,153014.51,308,20L+
+429676,Zashil Bali,69,Other,Engineer,Khandwa,Uttar Pradesh,2023-04-03,Current,370523.35,857,20L+
+866982,Umang Virk,59,Male,Business,Nizamabad,Telangana,2024-02-20,Fixed Deposit,81462.07,734,5-10L
+493264,Gopal Mand,21,Other,Business,Tirupati,Rajasthan,2023-03-22,Current,125269.01,843,0-5L
+903323,Vrishti Issac,20,Other,Homemaker,Dewas,Nagaland,2023-11-03,Current,6488.3,627,20L+
+248967,Baghyawati Korpal,28,Male,Engineer,Jalgaon,Gujarat,2024-06-02,Savings,67450.89,555,10-20L
+736200,Janani Bali,59,Female,Teacher,Miryalaguda,Goa,2024-06-10,Savings,370208.8,631,0-5L
+111617,Qadim Upadhyay,43,Female,Business,Sasaram,Haryana,2022-01-21,Current,463339.01,381,10-20L
+310102,Bhanumati Jayaraman,56,Male,Student,Vijayawada,Tripura,2020-07-17,Current,333087.21,552,10-20L
+906255,Jagdish Oommen,46,Male,Student,Gulbarga,Rajasthan,2021-08-30,Savings,69750.42,332,0-5L
+898219,Yashasvi Narula,43,Other,Homemaker,Karimnagar,Karnataka,2021-01-15,Current,481685.81,642,5-10L
+382801,Abha Sangha,25,Female,Teacher,Bijapur,Andhra Pradesh,2020-10-21,Current,93623.83,585,10-20L
+696961,Manan Upadhyay,37,Male,Student,Mira-Bhayandar,Rajasthan,2022-05-10,Current,319805.68,691,20L+
+841731,Tanmayi Naik,56,Other,Student,Alwar,Madhya Pradesh,2020-08-10,Savings,355420.43,720,10-20L
+909366,Edhitha Tank,45,Male,Doctor,Udaipur,Maharashtra,2024-01-20,Fixed Deposit,15695.07,340,10-20L
+234415,Amara Soni,33,Male,Teacher,Sangli-Miraj & Kupwad,Punjab,2023-02-07,Savings,370477.9,306,20L+
+807209,Abha Bhardwaj,52,Male,Engineer,Kurnool,Mizoram,2021-06-24,Savings,295235.94,468,5-10L
+144479,Benjamin Iyer,39,Male,Engineer,Guna,Punjab,2022-07-23,Current,334329.75,558,10-20L
+75318,Jonathan Talwar,31,Female,Doctor,Chittoor,Assam,2021-08-01,Current,88484.78,853,10-20L
+609664,Atharv Badami,41,Male,Doctor,Haldia,Chhattisgarh,2024-10-12,Savings,58086.66,681,0-5L
+935045,Wahab Loke,60,Female,Homemaker,New Delhi,Telangana,2023-02-16,Current,162238.83,478,5-10L
+868487,Yatin Kapadia,24,Female,Business,Udupi,Jharkhand,2022-11-11,Fixed Deposit,384434.04,332,0-5L
+375995,Ikbal Wagle,60,Male,Teacher,Hapur,Tripura,2025-01-03,Fixed Deposit,9798.49,603,20L+
+332907,Aarav Apte,57,Female,Doctor,Agra,Mizoram,2023-06-02,Fixed Deposit,153465.08,796,20L+
+648167,Darika Sankaran,25,Male,Teacher,Chittoor,Manipur,2024-11-06,Fixed Deposit,95061.54,645,5-10L
+180887,Amrita Srinivas,69,Male,Doctor,Shivpuri,Karnataka,2024-02-20,Current,224747.14,794,10-20L
+931228,Jack Wagle,35,Other,Engineer,Dharmavaram,Haryana,2022-04-08,Current,35301.4,369,20L+
+413520,Ayaan Pall,54,Male,Teacher,Satara,Manipur,2020-11-26,Fixed Deposit,4220.12,872,10-20L
+37251,Yashoda Ahuja,45,Other,Teacher,Dharmavaram,Himachal Pradesh,2023-02-14,Current,126498.88,409,10-20L
+88413,Sachi Ghose,19,Female,Engineer,Patiala,Andhra Pradesh,2023-10-20,Savings,24475.38,630,20L+
+704549,Jeremiah Palla,25,Female,Doctor,Katihar,Manipur,2021-04-10,Savings,254544.32,355,10-20L
+885698,Shivani Dua,40,Other,Doctor,Akola,Manipur,2020-05-11,Current,400120.76,445,5-10L
+130980,Tanvi Krishnamurthy,54,Other,Engineer,Bongaigaon,Rajasthan,2023-01-07,Current,330298.49,466,10-20L
+528720,Darpan Kapoor,34,Other,Student,Kota,Assam,2020-06-24,Current,95051.89,837,20L+
+999088,Kritika Kalla,65,Male,Doctor,Gandhinagar,Jharkhand,2021-01-08,Savings,33380.15,728,5-10L
+176141,Thomas Dugar,42,Female,Business,Muzaffarpur,Haryana,2020-07-09,Fixed Deposit,204567.92,734,0-5L
+802368,Nikita Tandon,18,Female,Homemaker,Sultan Pur Majra,Rajasthan,2020-12-06,Savings,357083.71,534,0-5L
+777088,Brinda Sandhu,50,Male,Engineer,Motihari,Andhra Pradesh,2021-06-12,Fixed Deposit,431631.47,899,5-10L
+213429,Sai Roy,46,Other,Homemaker,Rajahmundry,Himachal Pradesh,2022-10-31,Savings,7303.14,791,10-20L
+762911,Hredhaan Loyal,53,Other,Teacher,Firozabad,Kerala,2021-10-19,Savings,214949.21,588,10-20L
+157724,Ryan Suri,54,Female,Doctor,Dhule,Jharkhand,2023-01-29,Savings,443188.56,747,5-10L
+871717,Rachita Suri,21,Other,Doctor,Dewas,Tamil Nadu,2024-03-15,Savings,496152.35,814,5-10L
+772488,Jeevika Deep,43,Male,Homemaker,Mirzapur,Mizoram,2022-08-21,Fixed Deposit,405962.5,498,5-10L
+47550,Andrew Kara,51,Male,Homemaker,Uluberia,Odisha,2022-09-30,Savings,259983.03,336,10-20L
+434276,Daksh Chowdhury,40,Female,Teacher,Arrah,Mizoram,2021-08-04,Current,135023.77,419,5-10L
+618250,Zaitra Goswami,48,Female,Engineer,Gaya,Nagaland,2022-06-07,Current,41104.09,604,5-10L
+299639,Edhitha Kumar,55,Other,Student,Jamnagar,Punjab,2024-03-08,Fixed Deposit,301007.85,399,0-5L
+378613,Upasna Chopra,26,Male,Student,Sri Ganganagar,Himachal Pradesh,2020-06-13,Current,355520.15,882,10-20L
+917410,Meghana Gill,22,Male,Teacher,Madhyamgram,Andhra Pradesh,2020-02-15,Fixed Deposit,304877.12,652,5-10L
+526636,Vamakshi Batta,23,Male,Business,Jhansi,Maharashtra,2021-03-24,Savings,195545.27,318,10-20L
+580801,Hredhaan Virk,66,Other,Doctor,South Dumdum,Bihar,2020-02-13,Fixed Deposit,375690.15,495,0-5L
+391429,Kalpit Ranganathan,64,Male,Teacher,Raiganj,Punjab,2021-12-07,Savings,458314.21,529,0-5L
+669095,Pavani Dubey,50,Female,Student,Lucknow,Punjab,2025-01-05,Fixed Deposit,60260.37,493,20L+
+499170,Chaman Vyas,46,Female,Business,Thoothukudi,Tamil Nadu,2023-11-15,Current,169275.82,503,20L+
+677117,Yashodhara Mukhopadhyay,35,Other,Doctor,Vijayanagaram,Chhattisgarh,2024-08-21,Current,146703.66,595,10-20L
+406915,Fitan Arora,35,Male,Homemaker,Sultan Pur Majra,Rajasthan,2022-12-26,Savings,238858.75,794,0-5L
+582514,Hredhaan Ratta,63,Other,Student,Sirsa,Odisha,2021-08-26,Current,486434.68,307,10-20L
+616184,Amol Parikh,67,Male,Teacher,Anantapur,Jharkhand,2022-02-08,Savings,99279.08,572,10-20L
+365189,Urvashi Goyal,65,Other,Engineer,Yamunanagar,Haryana,2022-02-26,Current,326120.98,465,20L+
+423408,Aarna Dhaliwal,46,Female,Student,Proddatur,Gujarat,2024-06-05,Fixed Deposit,319233.63,606,10-20L
+411343,Abhimanyu Amble,52,Other,Student,Allahabad,Kerala,2020-03-03,Fixed Deposit,97733.75,842,10-20L
+645405,Pallavi Mutti,39,Male,Homemaker,Pune,Uttarakhand,2024-08-26,Savings,145970.7,548,0-5L
+94597,Naksh Natt,53,Female,Teacher,Amravati,Uttar Pradesh,2020-08-31,Current,365197.76,738,20L+
+762853,Tamanna Wali,45,Male,Student,Hindupur,Tamil Nadu,2024-11-19,Current,347277.23,822,5-10L
+884582,Gavin Suresh,60,Other,Business,Darbhanga,Arunachal Pradesh,2024-09-21,Savings,351438.93,717,10-20L
+491486,Owen Wason,22,Male,Doctor,Faridabad,Tamil Nadu,2020-06-08,Current,489794.58,431,10-20L
+183163,Anita Nagarajan,29,Female,Homemaker,Morena,Chhattisgarh,2023-05-04,Current,218203.81,790,10-20L
+101424,Ekaja Bansal,36,Other,Student,Karimnagar,Gujarat,2023-02-16,Fixed Deposit,279814.43,789,20L+
+896560,Vaishnavi Char,39,Other,Doctor,Loni,Meghalaya,2023-11-14,Fixed Deposit,397335.13,524,10-20L
+594602,Siya Wason,18,Other,Homemaker,Guna,Goa,2021-06-12,Fixed Deposit,206394.76,368,10-20L
+368675,Amara Lal,51,Female,Doctor,Siwan,Nagaland,2020-10-24,Current,214704.92,469,20L+
+907014,Naksh Patil,34,Female,Student,Narasaraopet,Rajasthan,2023-09-07,Savings,413360.15,863,20L+
+294479,Vidhi Pathak,39,Male,Doctor,Varanasi,Uttarakhand,2022-03-27,Fixed Deposit,437687.59,515,20L+
+405691,Bachittar Kothari,25,Other,Doctor,Navi Mumbai,Uttar Pradesh,2022-03-30,Current,411141.52,772,10-20L
+329704,Sneha Warrior,51,Male,Homemaker,Gurgaon,Odisha,2022-05-17,Savings,112060.01,617,20L+
+590853,Aarnav Varty,55,Male,Doctor,Jodhpur,Goa,2023-07-02,Current,25427.63,561,0-5L
+635966,Vinaya Kapoor,65,Male,Student,Firozabad,Himachal Pradesh,2023-02-19,Savings,424786.32,859,0-5L
+963181,Yauvani Puri,55,Male,Engineer,Ludhiana,Nagaland,2024-08-04,Fixed Deposit,184525.6,899,5-10L
+239811,Upma Mane,45,Male,Homemaker,Gandhinagar,Rajasthan,2021-08-04,Savings,398887.58,629,0-5L
+187795,Samuel Patla,50,Male,Teacher,Pimpri-Chinchwad,Sikkim,2021-09-30,Savings,99867.47,467,20L+
+221057,Gautam Patla,36,Other,Business,Junagadh,Karnataka,2020-03-08,Fixed Deposit,475852.56,346,0-5L
+107770,Lakshmi Chauhan,54,Male,Doctor,Tiruchirappalli,Manipur,2020-10-08,Fixed Deposit,370425.18,579,5-10L
+347598,Varsha Goswami,55,Male,Teacher,Naihati,Himachal Pradesh,2021-02-10,Current,485664.49,851,20L+
+457869,Zansi Choudhary,62,Male,Doctor,Berhampur,Punjab,2023-02-21,Current,484476.35,578,20L+
+100854,Gaurang Sabharwal,53,Other,Business,Tezpur,Odisha,2021-08-27,Fixed Deposit,358382.74,760,20L+
+623346,Faraj Sethi,54,Female,Teacher,Ajmer,Haryana,2020-12-10,Savings,108217.3,741,5-10L
+391349,Wridesh Bala,68,Female,Engineer,Aurangabad,Maharashtra,2021-09-26,Fixed Deposit,38813.46,741,10-20L
+941625,Baljiwan Nair,27,Other,Student,Madanapalle,Tripura,2020-07-27,Current,458135.98,807,10-20L
+170881,Divya Majumdar,67,Other,Engineer,Fatehpur,Bihar,2023-10-23,Savings,391848.45,876,10-20L
+241725,Qasim Bail,24,Male,Homemaker,Pondicherry,Tripura,2021-11-25,Current,111544.72,359,5-10L
+310559,Gaurang Sangha,18,Male,Doctor,Hapur,Uttarakhand,2023-08-06,Current,19386.46,357,20L+
+525970,Turvi Toor,28,Male,Doctor,Bhind,Jharkhand,2024-10-03,Fixed Deposit,312836.13,508,5-10L
+950796,Warda Dugar,42,Other,Homemaker,Srinagar,Assam,2023-06-01,Fixed Deposit,410432.9,879,10-20L
+536935,Inaya Sridhar,45,Female,Teacher,Imphal,Bihar,2024-05-21,Current,383415.59,830,20L+
+582589,Samuel Mangal,54,Male,Business,Khammam,Manipur,2023-08-17,Savings,135515.17,339,5-10L
+254259,Abeer Chandran,32,Male,Homemaker,Kolhapur,Andhra Pradesh,2023-05-03,Savings,377088.5,727,5-10L
+981159,Janya Pau,48,Other,Student,Anantapuram,Tamil Nadu,2021-12-04,Savings,432123.55,399,10-20L
+723212,Pranav Varughese,54,Male,Student,Bhatpara,Uttarakhand,2022-01-27,Current,79843.02,788,5-10L
+573014,Yutika Dutta,58,Male,Homemaker,Orai,Assam,2021-01-16,Current,48922.59,814,5-10L
+599706,Champak Bhat,19,Male,Engineer,Erode,Arunachal Pradesh,2020-11-17,Current,306899.32,659,5-10L
+213580,Patrick Dasgupta,22,Other,Student,Nandyal,Bihar,2024-08-02,Fixed Deposit,102161.36,674,0-5L
+365297,Nidra Saha,37,Male,Homemaker,Hindupur,Uttarakhand,2024-11-28,Savings,211039.86,609,20L+
+454636,Bina Ganguly,21,Other,Student,Singrauli,West Bengal,2022-06-13,Current,20502.38,728,0-5L
+276189,Falguni Bhatia,56,Male,Teacher,Durgapur,Maharashtra,2022-06-11,Fixed Deposit,170829.78,576,10-20L
+925172,Zayyan Buch,48,Female,Engineer,Machilipatnam,Manipur,2021-08-24,Savings,256020.63,589,20L+
+750058,Ria Buch,50,Female,Engineer,Satna,Odisha,2024-03-26,Fixed Deposit,456901.29,823,0-5L
+59430,Darika Shenoy,44,Male,Doctor,Kamarhati,Rajasthan,2024-10-30,Savings,142030.56,726,0-5L
+651637,Netra Gandhi,35,Other,Engineer,Malegaon,Telangana,2024-11-30,Current,66127.58,549,5-10L
+322614,Balendra Tiwari,30,Other,Homemaker,Serampore,Sikkim,2024-12-26,Fixed Deposit,194085.43,655,10-20L
+757410,Meghana Ray,34,Other,Doctor,Thrissur,Himachal Pradesh,2021-07-03,Fixed Deposit,52985.09,342,10-20L
+162379,Manthan Gole,60,Male,Homemaker,Ambattur,Tamil Nadu,2020-11-18,Savings,358364.93,654,5-10L
+719723,Widisha Bora,28,Other,Homemaker,Dindigul,Tamil Nadu,2021-07-27,Savings,221605.72,633,0-5L
+516275,Garima Munshi,30,Other,Doctor,Singrauli,Andhra Pradesh,2020-05-15,Savings,327632.76,657,0-5L
+378988,Hitesh Andra,52,Other,Teacher,Dibrugarh,Goa,2020-01-19,Fixed Deposit,68518.76,421,0-5L
+881989,Kalpit Dara,41,Other,Doctor,Bardhaman,Jharkhand,2021-01-03,Fixed Deposit,101997.76,697,0-5L
+963391,Zehaan Pall,24,Other,Doctor,Muzaffarnagar,Jharkhand,2023-02-25,Fixed Deposit,494472.94,827,0-5L
+324875,Jalsa Chand,34,Male,Student,Hubli–Dharwad,Uttarakhand,2024-08-13,Fixed Deposit,142303.52,654,5-10L
+650035,Jagvi Kalla,42,Male,Engineer,Alwar,Maharashtra,2021-11-03,Fixed Deposit,237043.26,783,0-5L
+764524,Sai Rau,19,Other,Doctor,Faridabad,Nagaland,2023-04-14,Current,349053.76,849,0-5L
+646846,Unni Khurana,33,Other,Doctor,Faridabad,Uttarakhand,2021-05-31,Current,429589.7,595,20L+
+329274,Raagini Kunda,50,Other,Teacher,Katihar,Goa,2021-03-27,Current,240093.31,415,20L+
+446466,Chatresh Dutta,34,Female,Doctor,Nizamabad,Bihar,2022-04-18,Current,380516.0,489,20L+
+202069,Lila Dugal,46,Other,Doctor,Danapur,Andhra Pradesh,2023-07-03,Savings,171905.61,414,20L+
+566469,Meera Mall,64,Male,Homemaker,Nagpur,Odisha,2022-11-20,Current,202650.02,690,5-10L
+613188,Rajata Sarkar,27,Other,Teacher,Bihar Sharif,Goa,2023-02-26,Savings,276266.57,598,0-5L
+420710,Lekha Mallick,68,Male,Doctor,Vellore,Assam,2024-02-09,Savings,270486.14,504,5-10L
+322990,Joshua Anand,26,Male,Doctor,Hosur,Meghalaya,2022-10-16,Fixed Deposit,75242.43,664,0-5L
+551903,Azaan Devi,31,Other,Business,Anantapur,Tamil Nadu,2020-04-22,Current,349951.85,560,5-10L
+928430,Gaurika Mammen,34,Male,Engineer,Pimpri-Chinchwad,Uttarakhand,2023-02-07,Fixed Deposit,179183.12,808,0-5L
+858871,Raghav Raval,21,Male,Student,Aligarh,Tamil Nadu,2024-06-18,Fixed Deposit,324049.17,719,20L+
+256929,Wishi Varughese,34,Other,Business,Mumbai,Uttar Pradesh,2022-10-02,Fixed Deposit,407684.16,865,10-20L
+826113,Ishanvi Wason,59,Female,Homemaker,Ongole,Tripura,2024-11-03,Savings,105872.1,339,5-10L
+258996,Xalak Mital,21,Female,Teacher,Bhiwani,Manipur,2024-09-16,Current,37707.41,695,0-5L
+661330,Bhavani Madan,69,Other,Teacher,Uluberia,Uttar Pradesh,2023-08-21,Savings,486327.61,423,20L+
+308780,Daksh Lanka,67,Female,Homemaker,Bhiwani,Haryana,2024-02-28,Current,185278.9,818,10-20L
+138953,Amol Raghavan,32,Female,Teacher,Burhanpur,Uttarakhand,2022-06-16,Fixed Deposit,493476.48,663,0-5L
+166609,Max Nagy,25,Male,Engineer,Solapur,Rajasthan,2023-05-18,Fixed Deposit,463296.81,539,5-10L
+711725,Barkha Jain,63,Male,Homemaker,Solapur,Uttar Pradesh,2024-12-06,Current,477465.58,672,5-10L
+534260,Yash Date,38,Other,Engineer,Ajmer,Goa,2024-01-28,Savings,141572.72,736,20L+
+117415,Yadavi Natt,51,Female,Engineer,Sambalpur,Odisha,2020-04-11,Fixed Deposit,43449.97,525,10-20L
+3447,Anmol Mohan,22,Male,Teacher,Sasaram,Madhya Pradesh,2023-08-05,Fixed Deposit,279761.02,358,0-5L
+362387,Oni Sidhu,38,Female,Student,Malegaon,Karnataka,2021-05-21,Savings,392572.35,355,5-10L
+919748,Udant Bhardwaj,47,Female,Homemaker,Kollam,Punjab,2024-05-02,Fixed Deposit,41079.59,675,20L+
+297120,Yamini Contractor,66,Other,Engineer,Secunderabad,Andhra Pradesh,2021-12-02,Current,425860.23,541,0-5L
+395838,Hardik Sur,30,Other,Business,Korba,Himachal Pradesh,2021-07-18,Savings,168850.37,644,10-20L
+811661,Upadhriti Kumer,45,Female,Doctor,Surat,Andhra Pradesh,2023-04-06,Current,307354.87,331,5-10L
+150776,Turvi Dhawan,58,Female,Student,Machilipatnam,Tamil Nadu,2021-07-18,Savings,494717.77,857,20L+
+330547,Harshil Andra,42,Female,Homemaker,Bhavnagar,Karnataka,2023-12-09,Current,344385.56,800,0-5L
+795443,Harsh Subramaniam,43,Male,Business,Nagpur,Tamil Nadu,2022-10-10,Savings,162710.6,595,20L+
+801107,Qarin Dhaliwal,43,Male,Doctor,Kavali,Meghalaya,2021-06-25,Savings,197560.43,831,0-5L
+780153,Forum Boase,31,Other,Doctor,Ghaziabad,Gujarat,2024-05-11,Current,61949.31,691,5-10L
+713573,Girik Chaudry,45,Female,Doctor,Pimpri-Chinchwad,Andhra Pradesh,2021-10-09,Fixed Deposit,284345.33,754,0-5L
+961366,Maanas Dhingra,21,Female,Homemaker,Ahmedabad,Telangana,2024-02-26,Current,378855.94,337,10-20L
+656852,Ethan Naik,30,Other,Homemaker,Secunderabad,West Bengal,2020-12-27,Current,458405.67,883,5-10L
+524796,Akshay Krishna,30,Other,Student,Nashik,Andhra Pradesh,2024-11-12,Current,218431.09,579,10-20L
+223091,Harsh Nagarajan,43,Other,Student,Karaikudi,Manipur,2021-10-21,Savings,453964.13,820,20L+
+799146,Chandresh Shenoy,51,Other,Student,Mirzapur,Madhya Pradesh,2022-03-06,Fixed Deposit,276681.96,880,10-20L
+574057,Forum Dewan,59,Other,Student,Hospet,Gujarat,2021-07-10,Savings,269787.32,645,5-10L
+655370,Wakeeta Borde,40,Female,Engineer,Khandwa,Andhra Pradesh,2023-04-07,Current,395169.99,767,5-10L
+391681,Wyatt Barad,45,Male,Business,Haldia,Goa,2024-03-29,Savings,69890.47,786,0-5L
+115017,Ucchal Kala,21,Other,Student,Guna,Sikkim,2024-03-22,Savings,233435.9,637,5-10L
+50462,Neelima Malhotra,42,Female,Homemaker,Jodhpur,Assam,2021-07-16,Savings,137407.62,786,20L+
+751584,Vedika Chad,60,Female,Engineer,Nagercoil,Tripura,2021-09-07,Current,352456.74,780,0-5L
+73008,Atharv Sathe,24,Other,Engineer,Aurangabad,Tripura,2023-05-25,Savings,262107.39,898,10-20L
+976465,Kamala Dash,64,Male,Doctor,Ghaziabad,Kerala,2023-04-04,Current,12108.56,403,10-20L
+47595,Benjamin Dave,42,Other,Engineer,Coimbatore,Meghalaya,2020-05-03,Current,350703.41,809,0-5L
+612370,Saksham Morar,65,Female,Doctor,Tumkur,Punjab,2020-12-15,Fixed Deposit,73699.7,435,10-20L
+904840,Odika Hari,48,Other,Business,Tenali,Telangana,2020-06-27,Savings,461217.02,768,5-10L
+277039,Saksham Anand,46,Female,Engineer,Purnia,Odisha,2020-11-15,Current,48469.07,522,10-20L
+57872,William Nanda,21,Male,Homemaker,Pudukkottai,Goa,2020-11-27,Current,379581.59,889,5-10L
+932618,Samarth Bumb,20,Male,Teacher,Bilaspur,Chhattisgarh,2021-04-21,Current,311894.01,404,0-5L
+272778,Logan Rajan,49,Other,Doctor,Gorakhpur,Mizoram,2024-10-13,Savings,368291.47,865,0-5L
+993671,Benjamin Bera,29,Other,Doctor,Vellore,Maharashtra,2024-06-22,Savings,358641.98,400,5-10L
+308266,Vivaan Chaudhuri,57,Male,Teacher,Karimnagar,Rajasthan,2020-03-22,Fixed Deposit,93652.33,718,5-10L
+971810,Tanveer Banerjee,22,Other,Homemaker,Amravati,West Bengal,2023-08-21,Fixed Deposit,207922.15,332,0-5L
+44021,Upma Butala,29,Male,Engineer,Kottayam,Maharashtra,2023-07-30,Savings,241881.25,594,0-5L
+149554,Sanaya Gara,21,Other,Engineer,Bhimavaram,Rajasthan,2021-11-22,Current,195438.58,747,10-20L
+73932,Fiyaz Pant,64,Male,Business,Varanasi,Jharkhand,2021-08-27,Current,147103.34,481,20L+
+146801,Reyansh Khatri,41,Female,Engineer,Secunderabad,Maharashtra,2024-08-05,Fixed Deposit,156645.13,396,0-5L
+467953,Daksha Chowdhury,42,Male,Student,Coimbatore,Mizoram,2021-08-08,Fixed Deposit,368420.15,490,10-20L
+353960,Pooja Borde,63,Male,Business,Chandrapur,West Bengal,2024-01-08,Current,64960.9,745,10-20L
+374930,Jai Nath,28,Female,Homemaker,Karaikudi,Punjab,2024-09-09,Fixed Deposit,413091.88,660,20L+
+941440,Kai Sur,28,Male,Teacher,Purnia,Kerala,2022-12-14,Savings,370166.3,321,5-10L
+424969,Ekaraj Prashad,54,Male,Homemaker,Ramgarh,Jharkhand,2021-03-14,Current,128442.48,411,20L+
+309710,Onveer Bedi,58,Other,Teacher,Mirzapur,Himachal Pradesh,2021-09-27,Current,452240.4,796,0-5L
+815073,Chaaya Kamdar,64,Other,Student,Gurgaon,Kerala,2021-01-28,Current,277038.4,741,5-10L
+53049,Harsh Khurana,32,Female,Doctor,Raurkela Industrial Township,Tripura,2022-11-01,Savings,85707.84,752,0-5L
+293488,Maanas Wali,47,Male,Engineer,Bhimavaram,Gujarat,2022-04-08,Fixed Deposit,483367.35,692,20L+
+99856,Tanveer Ray,38,Female,Student,Thrissur,Bihar,2023-10-19,Savings,110923.35,689,5-10L
+879346,Joshua Gera,32,Male,Homemaker,Karaikudi,Haryana,2024-09-28,Fixed Deposit,63298.85,723,10-20L
+730669,Chanakya Bhat,26,Female,Teacher,Etawah,Telangana,2024-05-12,Savings,113872.01,835,10-20L
+67681,Chavvi Bajwa,33,Other,Teacher,Bulandshahr,Himachal Pradesh,2020-03-07,Savings,90576.1,304,20L+
+709972,Jairaj Deshmukh,62,Other,Business,Sasaram,Telangana,2020-05-02,Current,497800.53,689,10-20L
+642434,Maanas Swamy,22,Female,Homemaker,Delhi,West Bengal,2022-03-27,Fixed Deposit,270113.18,622,5-10L
+470885,Tristan Nanda,51,Male,Teacher,Madurai,Rajasthan,2022-10-06,Current,85867.54,407,5-10L
+401224,Jeet Natarajan,46,Other,Teacher,Siwan,Rajasthan,2021-03-15,Fixed Deposit,476382.86,852,10-20L
+3852,Gagan Bhakta,33,Female,Business,North Dumdum,Maharashtra,2021-12-16,Savings,327403.61,363,5-10L
+548452,Lavanya Mistry,19,Other,Engineer,Rajpur Sonarpur,Arunachal Pradesh,2022-03-03,Current,56729.82,886,5-10L
+633832,Naksh Mannan,37,Male,Student,Baranagar,Haryana,2022-10-31,Savings,397649.71,418,10-20L
+447346,Bina Bawa,32,Male,Engineer,Bathinda,Karnataka,2024-05-30,Savings,466787.38,615,20L+
+211859,Bhavika Dara,36,Other,Teacher,Mira-Bhayandar,Goa,2020-09-16,Current,31728.83,461,20L+
+382376,Damyanti Narula,66,Other,Business,Ozhukarai,Telangana,2023-05-21,Current,257574.16,808,20L+
+314515,Hema Gandhi,66,Other,Teacher,Kozhikode,Odisha,2021-12-14,Current,61346.45,888,0-5L
+546117,Gavin Chaudhuri,43,Other,Homemaker,Agartala,Andhra Pradesh,2021-11-30,Current,138726.81,887,0-5L
+50094,Shaurya Tak,47,Male,Homemaker,Ambala,Goa,2023-05-24,Current,432755.24,582,5-10L
+179154,Indira Pal,19,Male,Teacher,Jalna,Uttarakhand,2020-07-23,Fixed Deposit,111210.4,560,20L+
+834349,Harita Gala,53,Female,Homemaker,Morbi,West Bengal,2024-10-05,Fixed Deposit,274976.59,741,0-5L
+363258,Anya Chaudhuri,68,Other,Business,Medininagar,Punjab,2021-09-27,Fixed Deposit,323350.25,340,10-20L
+13132,Prisha Barad,56,Other,Teacher,Hubli–Dharwad,Sikkim,2020-12-31,Savings,470497.35,593,0-5L
+137150,Turvi Bhasin,20,Female,Business,Aurangabad,Arunachal Pradesh,2023-04-06,Savings,423705.47,649,10-20L
+695719,Anay Kadakia,60,Male,Homemaker,Ramgarh,Punjab,2024-10-06,Fixed Deposit,446592.31,834,0-5L
+6116,Priya Bhatia,20,Male,Business,Bhimavaram,Tripura,2020-11-11,Current,483391.42,747,5-10L
+867596,Mitesh Gour,51,Female,Teacher,Berhampur,Madhya Pradesh,2024-10-04,Fixed Deposit,223613.82,314,10-20L
+911803,Yashoda Jani,68,Other,Engineer,Panipat,Tripura,2023-07-13,Savings,118093.18,453,5-10L
+790134,Damini Dugar,42,Other,Engineer,Tiruppur,Kerala,2023-09-08,Current,56085.56,790,0-5L
+519370,Imaran Bala,31,Female,Doctor,Guntakal,Meghalaya,2024-08-21,Current,90422.31,624,20L+
+413823,Geetika Agrawal,38,Other,Doctor,Suryapet,Maharashtra,2021-05-26,Savings,38760.91,654,0-5L
+281632,Pranit Mammen,56,Female,Business,Pali,Rajasthan,2023-07-20,Fixed Deposit,258751.52,701,10-20L
+11195,Wahab Lad,44,Other,Engineer,Berhampur,Uttar Pradesh,2020-11-20,Fixed Deposit,230679.05,710,0-5L
+424979,Yadavi Shroff,66,Other,Business,Muzaffarpur,Tripura,2022-03-11,Fixed Deposit,233254.34,865,10-20L
+969177,Tara Gade,47,Male,Teacher,Hosur,Mizoram,2020-07-24,Current,467726.62,816,10-20L
+805126,Krisha Borah,60,Male,Teacher,Alwar,Nagaland,2021-09-19,Current,361870.42,645,10-20L
+877494,Oni Dave,64,Other,Student,Meerut,Tamil Nadu,2023-08-16,Current,163147.84,570,5-10L
+947935,Laksh Prabhakar,37,Male,Doctor,Bahraich,West Bengal,2024-03-01,Fixed Deposit,421097.3,691,5-10L
+257199,Ekantika Uppal,26,Other,Homemaker,Bahraich,Rajasthan,2021-01-01,Current,467147.28,817,0-5L
+433006,Peter Nanda,27,Female,Business,Gaya,Himachal Pradesh,2021-03-20,Current,203235.2,590,5-10L
+538409,Lavanya Kapoor,66,Other,Business,Ratlam,Manipur,2020-03-12,Current,203245.74,339,0-5L
+191628,Dayita Sachdev,53,Male,Homemaker,Kamarhati,Tripura,2022-02-17,Current,175312.75,356,0-5L
+809894,Caleb Sachdev,24,Male,Homemaker,Parbhani,Bihar,2022-12-18,Fixed Deposit,108449.98,778,20L+
+515342,Wahab Chokshi,32,Male,Business,Tadipatri,Punjab,2020-08-26,Fixed Deposit,176217.7,867,10-20L
+556894,Vaishnavi Misra,36,Male,Business,Nagercoil,Nagaland,2022-12-30,Current,454967.06,742,20L+
+699278,Vaishnavi Khare,69,Female,Student,Ghaziabad,Odisha,2023-11-17,Current,173227.58,698,0-5L
+62069,Manya Mani,24,Other,Engineer,Latur,Madhya Pradesh,2022-02-23,Fixed Deposit,479854.62,526,0-5L
+45720,Ayaan Shere,43,Male,Business,Burhanpur,Assam,2022-04-18,Fixed Deposit,58484.27,648,5-10L
+847114,Wakeeta Ganesan,59,Other,Business,Rajahmundry,Jharkhand,2020-02-28,Current,275750.74,345,5-10L
+548531,Rohan Narula,67,Male,Homemaker,Gorakhpur,Telangana,2020-05-22,Current,451629.33,632,5-10L
+514049,Chakradhar Kadakia,40,Male,Teacher,Panvel,Madhya Pradesh,2024-09-18,Savings,150001.01,588,20L+
+819567,Oscar Jhaveri,34,Male,Engineer,Akola,Tripura,2021-06-09,Current,149286.86,667,0-5L
+842483,Nitesh Raju,36,Male,Doctor,Jammu,Gujarat,2023-03-31,Current,216853.35,403,10-20L
+931961,Harrison Baral,25,Female,Doctor,Nadiad,Mizoram,2021-10-05,Current,195048.64,440,20L+
+132503,Yutika Hans,21,Female,Engineer,Phagwara,Madhya Pradesh,2022-07-25,Savings,91322.79,827,20L+
+605793,Pooja Raj,21,Other,Homemaker,Madanapalle,Tamil Nadu,2020-07-10,Current,282019.77,804,10-20L
+951360,Kritika Sha,24,Other,Homemaker,Guwahati,Andhra Pradesh,2023-08-16,Current,10751.73,358,5-10L
+947367,Edhitha Mall,63,Male,Homemaker,Rourkela,Manipur,2024-03-07,Current,356064.9,451,10-20L
+774883,Kala Sinha,36,Other,Homemaker,Loni,Chhattisgarh,2021-07-17,Current,149653.36,421,5-10L
+700756,Indrajit Dora,34,Other,Teacher,Mau,Chhattisgarh,2021-07-11,Fixed Deposit,37043.48,587,0-5L
+102906,Leela Garde,31,Other,Homemaker,Karaikudi,Telangana,2024-09-03,Savings,26482.18,304,5-10L
+22727,Indali Toor,69,Male,Engineer,Amroha,Uttar Pradesh,2022-01-04,Fixed Deposit,495327.54,857,10-20L
+206654,Rajeshri Bassi,43,Male,Teacher,Bidar,Tripura,2024-10-16,Current,382169.64,723,10-20L
+561382,Advik Boase,56,Male,Business,Barasat,Telangana,2021-05-10,Current,154962.61,836,10-20L
+477199,Parth Patla,19,Female,Student,Sikar,Andhra Pradesh,2020-05-12,Savings,40364.84,522,5-10L
+168594,Liam Jayaraman,42,Other,Business,Ulhasnagar,Odisha,2023-11-13,Current,413406.34,556,20L+
+890259,Abeer Luthra,36,Male,Homemaker,Pali,Nagaland,2021-07-25,Savings,419352.28,390,5-10L
+79576,Amol Choudhry,68,Female,Business,Bhiwandi,Rajasthan,2022-04-09,Fixed Deposit,39088.33,671,10-20L
+992094,Janya Varghese,64,Male,Doctor,Thoothukudi,Meghalaya,2023-07-17,Savings,138900.16,339,10-20L
+335959,Jeevika Dutt,31,Other,Doctor,Delhi,Maharashtra,2021-08-18,Current,295826.08,663,0-5L
+184895,Kashvi Sathe,21,Male,Homemaker,Bikaner,Tripura,2024-08-08,Savings,315524.82,527,0-5L
+76037,Nidra Gala,54,Male,Doctor,Korba,Kerala,2024-08-26,Current,132085.1,756,5-10L
+218097,Suhani Sinha,53,Female,Student,Giridih,Himachal Pradesh,2024-10-03,Savings,499404.27,851,20L+
+415976,Leela Rai,31,Female,Student,Bijapur,Karnataka,2021-09-18,Fixed Deposit,78222.15,628,10-20L
+407152,Frederick Soni,52,Female,Business,Kottayam,Maharashtra,2023-01-24,Savings,456145.36,779,20L+
+390304,Charita Venkatesh,58,Male,Homemaker,Jorhat,Uttarakhand,2021-11-17,Savings,429953.96,776,0-5L
+972958,Urishilla Varty,51,Female,Doctor,North Dumdum,Telangana,2024-10-06,Savings,431779.86,679,5-10L
+991379,Reva Baral,30,Other,Doctor,Latur,Uttarakhand,2023-08-19,Savings,400850.31,606,20L+
+720214,Frado Bakshi,41,Female,Engineer,Ambala,Uttar Pradesh,2022-08-24,Current,30823.7,313,5-10L
+502987,Nicholas Sood,29,Other,Business,Nanded,Telangana,2023-05-16,Current,233121.31,627,0-5L
+283017,Chakrika Dhaliwal,46,Other,Business,Erode,Himachal Pradesh,2022-10-29,Current,211393.36,478,20L+
+948231,Niharika Bora,67,Other,Homemaker,Alwar,Arunachal Pradesh,2021-04-11,Savings,55655.18,863,10-20L
+875809,Pallavi Panchal,33,Female,Business,Faridabad,Andhra Pradesh,2020-02-03,Savings,186414.21,665,20L+
+115448,Baljiwan Dutta,59,Male,Engineer,Naihati,Meghalaya,2023-09-11,Savings,262583.26,808,20L+
+343004,Bhavna Kulkarni,52,Other,Homemaker,Kollam,Jharkhand,2024-08-04,Fixed Deposit,37853.3,521,10-20L
+762564,Mugdha Loyal,53,Other,Homemaker,Imphal,Odisha,2024-04-27,Savings,299775.51,593,5-10L
+948212,Chaitaly Sachdev,36,Female,Teacher,Tiruvottiyur,Chhattisgarh,2024-02-10,Fixed Deposit,320293.46,632,20L+
+707972,Jeremiah Sekhon,29,Male,Student,Jhansi,Jharkhand,2021-04-06,Savings,19084.83,378,20L+
+400193,Ishwar Mangal,36,Female,Doctor,Bettiah,Uttar Pradesh,2024-04-19,Current,29096.26,641,0-5L
+965717,Benjamin Jha,51,Male,Student,Jalandhar,Madhya Pradesh,2020-11-09,Current,274556.77,738,0-5L
+400862,Tejas Baria,21,Other,Engineer,Katihar,Uttar Pradesh,2021-03-06,Savings,205833.07,745,10-20L
+342569,Bhavya Borra,62,Other,Homemaker,Dindigul,Karnataka,2024-04-23,Savings,485860.55,831,5-10L
+490903,Vrinda Chada,56,Other,Student,Rajahmundry,Meghalaya,2020-08-09,Current,344920.99,815,5-10L
+327405,Alexander Brar,27,Other,Homemaker,Bathinda,Andhra Pradesh,2020-10-01,Current,365601.56,573,5-10L
+116558,Pushti Sankar,51,Other,Engineer,Dehradun,Haryana,2022-02-05,Fixed Deposit,59636.49,334,20L+
+586281,Ranbir Oommen,42,Other,Engineer,Rewa,Odisha,2020-07-29,Current,117557.29,458,10-20L
+118426,Aachal Natt,19,Female,Teacher,New Delhi,West Bengal,2024-12-16,Current,302531.04,423,10-20L
+630290,Pavani Sinha,46,Male,Business,Bongaigaon,Manipur,2022-08-30,Current,260083.59,482,0-5L
+747778,Saksham Rastogi,50,Other,Engineer,Gorakhpur,Tamil Nadu,2020-09-25,Fixed Deposit,479703.79,348,0-5L
+825746,Darsh Johal,58,Other,Teacher,Bharatpur,Manipur,2021-01-05,Fixed Deposit,234651.06,307,0-5L
+689425,Inaya Maharaj,42,Female,Student,Bongaigaon,Andhra Pradesh,2020-02-29,Fixed Deposit,489997.63,441,10-20L
+479958,Eshana Lalla,60,Other,Engineer,Gorakhpur,West Bengal,2022-05-04,Savings,446369.31,832,5-10L
+418319,Noah Jain,21,Male,Homemaker,Mango,Tamil Nadu,2023-11-02,Current,207228.82,610,20L+
+379747,Hiral Naik,41,Female,Doctor,Phagwara,Gujarat,2024-09-26,Current,434302.2,660,0-5L
+306000,Sarthak Sibal,49,Other,Student,Cuttack,Haryana,2021-11-18,Fixed Deposit,200819.21,395,20L+
+502238,Kala Devi,26,Other,Homemaker,Nizamabad,Nagaland,2023-02-22,Current,157799.89,311,20L+
+346546,Tripti Banik,51,Female,Homemaker,Uluberia,Tripura,2020-07-24,Current,96712.49,421,20L+
+445462,Balvan Apte,49,Male,Homemaker,Visakhapatnam,Assam,2022-12-12,Savings,207548.39,300,20L+
+382246,Tamanna Gulati,24,Other,Homemaker,Ahmednagar,Bihar,2023-09-30,Savings,153888.33,569,20L+
+469749,Inaya Anand,24,Female,Homemaker,Bettiah,Chhattisgarh,2023-07-19,Fixed Deposit,80477.79,845,5-10L
+637119,William Srinivas,50,Other,Teacher,Dibrugarh,Goa,2024-07-03,Savings,324076.39,462,20L+
+807734,Vedhika Basu,23,Male,Teacher,Chandrapur,Jharkhand,2023-06-06,Current,406356.26,871,20L+
+406634,Zinal Raghavan,36,Other,Business,Raichur,Andhra Pradesh,2023-09-30,Savings,492843.22,501,10-20L
+268077,Sneha Mand,40,Male,Teacher,Jehanabad,Andhra Pradesh,2020-08-26,Current,323685.25,603,0-5L
+53140,Dominic Srinivasan,26,Other,Engineer,Delhi,West Bengal,2024-09-06,Current,21729.43,882,5-10L
+404334,Girik Dugal,56,Other,Teacher,Ramagundam,Tamil Nadu,2022-10-16,Current,242020.55,602,20L+
+65536,Dominic Nadig,38,Male,Business,Kirari Suleman Nagar,Haryana,2020-06-30,Savings,25052.24,358,10-20L
+290657,Ryan Biswas,61,Male,Engineer,Udaipur,Kerala,2024-03-22,Fixed Deposit,375895.56,898,20L+
+561142,Bishakha Srinivasan,63,Other,Homemaker,Burhanpur,Arunachal Pradesh,2021-04-01,Savings,32550.63,776,0-5L
+538344,Amrita Goda,44,Female,Teacher,Jalandhar,Rajasthan,2022-01-19,Fixed Deposit,107831.93,540,10-20L
+320373,Gauri Badal,39,Male,Engineer,Pallavaram,Telangana,2021-12-07,Fixed Deposit,358107.29,507,20L+
+722964,Udyati Bhardwaj,32,Other,Homemaker,Aurangabad,Tripura,2024-12-04,Current,498084.37,782,20L+
+389469,Neelima Nayar,18,Other,Student,Kota,Uttarakhand,2020-08-05,Fixed Deposit,10685.29,465,10-20L
+8777,Rajeshri Oak,67,Female,Engineer,Raebareli,Arunachal Pradesh,2021-07-10,Fixed Deposit,141049.36,523,5-10L
+772103,Yadavi Dara,55,Female,Student,Mirzapur,Arunachal Pradesh,2020-09-20,Savings,179034.16,440,0-5L
+323826,Joshua Nair,18,Male,Homemaker,Karaikudi,Odisha,2021-11-07,Savings,224586.02,365,5-10L
+953072,Faris Chaudhuri,66,Male,Doctor,Ongole,Haryana,2023-11-14,Fixed Deposit,178254.13,735,10-20L
+46388,Isaac Kamdar,49,Male,Doctor,Chinsurah,Madhya Pradesh,2021-05-27,Savings,270126.58,740,20L+
+930317,William Deol,29,Other,Homemaker,Vasai-Virar,Tamil Nadu,2020-06-18,Current,355162.15,333,0-5L
+25229,Kamala Brahmbhatt,35,Other,Teacher,Tirupati,Mizoram,2020-02-06,Current,206541.19,525,20L+
+412460,Leela Bala,30,Female,Teacher,Nagercoil,Himachal Pradesh,2023-08-18,Current,87200.23,845,10-20L
+171158,Urishilla Singh,67,Female,Teacher,Indore,Goa,2020-11-12,Current,335805.97,820,0-5L
+850645,Mitesh Misra,54,Male,Homemaker,Kulti,Meghalaya,2024-05-08,Fixed Deposit,499337.12,802,20L+
+702239,Maanas Bhat,40,Other,Business,Bihar Sharif,Uttar Pradesh,2020-06-22,Current,205420.4,465,0-5L
+68571,Krishna Kannan,66,Other,Homemaker,Salem,Sikkim,2023-08-14,Fixed Deposit,156937.41,881,20L+
+559848,Udarsh Ramaswamy,40,Other,Business,Faridabad,Gujarat,2024-08-17,Savings,90631.0,826,0-5L
+676535,Abhiram Wable,52,Female,Student,Singrauli,Mizoram,2020-07-17,Current,342221.71,792,5-10L
+730898,Maanas Gara,50,Other,Homemaker,Motihari,Mizoram,2020-06-07,Fixed Deposit,493998.98,632,10-20L
+404270,Isaiah Borah,43,Male,Teacher,Delhi,Punjab,2022-07-14,Current,271349.21,615,20L+
+665101,Samarth Sant,20,Female,Business,New Delhi,Uttarakhand,2024-07-21,Fixed Deposit,123566.68,471,0-5L
+727717,Xiti Anne,42,Other,Engineer,Mango,Assam,2020-12-17,Current,204150.15,405,0-5L
+146414,Upma Contractor,43,Female,Student,Bongaigaon,Jharkhand,2023-09-27,Current,340946.06,499,0-5L
+917940,Warjas Prabhakar,34,Female,Homemaker,Chandrapur,Chhattisgarh,2020-04-25,Savings,40459.54,881,10-20L
+913834,Tanmayi Prashad,43,Other,Doctor,Farrukhabad,Sikkim,2023-07-16,Fixed Deposit,446203.6,640,20L+
+192805,Gabriel Trivedi,64,Male,Doctor,Phusro,Maharashtra,2020-06-23,Current,237901.16,863,10-20L
+640841,Jeevika Bora,39,Male,Teacher,Jaunpur,Tripura,2025-01-01,Savings,221817.61,699,0-5L
+583301,Anita Purohit,32,Male,Teacher,Bhusawal,Manipur,2023-06-29,Current,76352.58,376,20L+
+997062,Champak Soni,46,Female,Student,Sikar,Arunachal Pradesh,2020-05-10,Current,101490.71,407,5-10L
+886524,Joshua Dutta,26,Female,Student,Dhule,Chhattisgarh,2023-03-23,Savings,486609.51,481,10-20L
+270949,Eesha Karan,48,Male,Student,Shimoga,Jharkhand,2020-06-21,Current,102632.75,383,10-20L
+676026,Jairaj Aggarwal,42,Female,Student,Bhilwara,Andhra Pradesh,2024-11-02,Current,263303.89,897,10-20L
+404536,Finn Guha,59,Male,Teacher,Solapur,Haryana,2024-02-02,Fixed Deposit,78731.53,488,0-5L
+136374,Charita Wason,64,Female,Business,Yamunanagar,Uttar Pradesh,2024-04-01,Current,247025.06,382,10-20L
+25918,Oliver Ghose,46,Male,Business,Noida,Kerala,2023-02-28,Savings,333518.27,887,10-20L
+65025,Waida Vyas,59,Other,Student,Jabalpur,Kerala,2022-01-06,Savings,309276.2,458,20L+
+254166,Aradhana Gandhi,23,Male,Business,Thane,Goa,2020-09-29,Savings,234525.47,429,0-5L
+295273,Qushi Sood,65,Female,Homemaker,Bhubaneswar,Goa,2022-10-03,Fixed Deposit,379665.61,310,5-10L
+438726,Gaurav Subramaniam,63,Female,Engineer,Pimpri-Chinchwad,Karnataka,2020-12-23,Current,162344.85,629,5-10L
+200614,Ekaja Baral,45,Other,Student,Gulbarga,Punjab,2020-05-20,Fixed Deposit,238032.17,556,20L+
+248547,Ryan Bir,39,Female,Business,Gangtok,Tamil Nadu,2022-03-05,Savings,261396.16,668,5-10L
+951495,Eiravati Parmar,45,Other,Homemaker,Meerut,Tripura,2023-12-27,Savings,58188.84,720,10-20L
+11012,Charvi Murthy,45,Other,Teacher,Latur,Kerala,2023-03-28,Savings,394782.08,656,0-5L
+586107,Turvi Tak,45,Male,Homemaker,Tiruppur,Meghalaya,2024-07-01,Current,296807.59,460,10-20L
+518005,Naveen Bhakta,39,Male,Student,Jabalpur,Himachal Pradesh,2021-04-09,Savings,141176.09,469,20L+
+659483,Upadhriti Manne,24,Male,Business,Raurkela Industrial Township,Rajasthan,2020-01-24,Savings,414427.43,310,20L+
+305842,Ekanta Sathe,51,Other,Homemaker,Vadodara,Sikkim,2020-07-01,Savings,166621.68,799,0-5L
+180973,Dipta Bedi,23,Male,Homemaker,Agra,Meghalaya,2023-08-17,Current,447448.64,511,5-10L
+638288,Ekanta Gala,29,Female,Teacher,Navi Mumbai,Meghalaya,2023-05-18,Fixed Deposit,202610.89,898,20L+
+871459,Darsh Ahuja,61,Female,Teacher,Chinsurah,Uttar Pradesh,2020-11-21,Current,100919.86,450,5-10L
+346599,Wridesh Mand,45,Female,Doctor,Gaya,Punjab,2023-12-28,Savings,153256.7,717,0-5L
+667184,Advika Srivastava,26,Male,Homemaker,Karawal Nagar,Tamil Nadu,2023-01-06,Current,210670.7,331,5-10L
+122434,Vivaan Master,19,Other,Engineer,Orai,Odisha,2021-08-11,Savings,384322.21,688,5-10L
+796008,Daniel Kaur,46,Other,Doctor,Mehsana,Uttar Pradesh,2022-02-01,Current,294465.23,365,0-5L
+257441,Yauvani Doshi,21,Female,Business,Bhavnagar,Haryana,2024-09-16,Savings,379255.59,535,0-5L
+522939,Falguni Butala,52,Male,Student,Pudukkottai,Rajasthan,2021-09-29,Fixed Deposit,123300.05,455,10-20L
+853028,Anvi Kannan,23,Other,Business,Ichalkaranji,Telangana,2021-06-29,Current,499205.05,331,0-5L
+410078,Mohammed Kannan,53,Male,Doctor,Madanapalle,Nagaland,2024-03-23,Savings,95096.62,774,5-10L
+574586,Jacob Bala,54,Other,Student,Dhule,Karnataka,2020-02-18,Fixed Deposit,11227.04,806,0-5L
+810347,Sneha Gulati,30,Female,Business,Machilipatnam,Karnataka,2021-03-30,Current,341485.65,725,20L+
+73127,Zashil Narang,21,Female,Student,Bihar Sharif,Manipur,2021-10-07,Fixed Deposit,193141.41,772,20L+
+483432,Samar Swamy,69,Female,Doctor,Mangalore,Gujarat,2022-03-10,Current,329446.82,877,20L+
+982330,Reyansh Prakash,68,Male,Doctor,Bangalore,Himachal Pradesh,2024-07-13,Fixed Deposit,123468.1,564,5-10L
+625789,Yahvi Shere,33,Male,Engineer,Nandyal,Tamil Nadu,2022-07-17,Fixed Deposit,54667.69,597,5-10L
+295101,Varsha Sandhu,69,Other,Doctor,Nanded,Mizoram,2024-02-29,Current,66155.77,793,20L+
+576276,Yasti Narula,31,Male,Homemaker,Aurangabad,West Bengal,2022-07-23,Savings,189722.08,318,20L+
+386727,Wahab Sangha,53,Male,Doctor,Warangal,West Bengal,2021-06-23,Savings,347583.2,735,10-20L
+420381,Ronith Venkataraman,34,Male,Student,Durg,Chhattisgarh,2024-06-15,Current,286921.09,454,0-5L
+105199,Amrita Koshy,40,Other,Student,Kulti,Rajasthan,2022-10-03,Fixed Deposit,27286.21,346,0-5L
+77545,Ekani Kumer,52,Male,Student,Tinsukia,Punjab,2020-05-29,Current,259309.36,481,5-10L
+452979,Harsh Bava,41,Other,Homemaker,Pali,Sikkim,2020-04-06,Current,170322.91,668,0-5L
+834818,Nihal Murthy,19,Male,Engineer,Bijapur,Andhra Pradesh,2023-08-01,Savings,147636.05,346,0-5L
+411463,Yashasvi Bhargava,18,Female,Engineer,Panipat,West Bengal,2023-01-13,Fixed Deposit,193770.25,593,20L+
+484019,Akshay Chakraborty,28,Male,Homemaker,Bangalore,Maharashtra,2022-02-28,Savings,272969.54,639,0-5L
+38533,Abdul Saraf,57,Other,Homemaker,Nadiad,Himachal Pradesh,2021-02-09,Fixed Deposit,103768.79,449,5-10L
+418045,Anirudh Dash,67,Male,Business,Tiruchirappalli,Goa,2023-03-18,Fixed Deposit,362703.16,460,10-20L
+815433,Bhanumati De,33,Male,Engineer,Bhagalpur,Uttar Pradesh,2020-09-24,Fixed Deposit,306307.39,496,10-20L
+149507,Adweta Shroff,44,Other,Engineer,Hindupur,Nagaland,2022-04-10,Savings,242615.3,550,20L+
+780053,Janaki Mitra,52,Male,Business,Mango,Telangana,2023-06-14,Savings,226786.84,749,10-20L
+983409,Shaurya Parmar,62,Female,Engineer,Surendranagar Dudhrej,Mizoram,2020-03-11,Current,46734.52,634,0-5L
+165641,Abeer Sankar,63,Other,Engineer,Mathura,Sikkim,2024-09-06,Current,189484.35,319,0-5L
+244046,Janaki Jayaraman,42,Female,Business,Pallavaram,Mizoram,2020-02-11,Fixed Deposit,288258.0,557,0-5L
+3854,Imaran Basak,19,Other,Engineer,Ujjain,Andhra Pradesh,2023-02-26,Savings,206426.69,793,0-5L
+592551,Rehaan Devan,52,Female,Engineer,Madurai,Kerala,2023-09-28,Fixed Deposit,459916.87,541,10-20L
+712762,Jacob Bansal,58,Female,Teacher,Mirzapur,Gujarat,2020-09-29,Fixed Deposit,168213.58,805,10-20L
+464767,Aashi Divan,41,Other,Engineer,Gandhidham,Madhya Pradesh,2023-02-04,Savings,70959.54,415,5-10L
+286672,Hema Narayanan,54,Other,Business,Bhimavaram,Nagaland,2020-12-28,Fixed Deposit,440284.01,312,0-5L
+462703,Zashil Pant,43,Female,Homemaker,Bally,Manipur,2024-01-05,Savings,172035.98,719,0-5L
+112651,Kamala Chander,31,Female,Student,Barasat,Mizoram,2020-08-13,Current,462049.46,532,5-10L
+855851,Darsh Sha,42,Female,Homemaker,Madhyamgram,Himachal Pradesh,2024-12-24,Current,39818.84,737,10-20L
+779957,Aashi Handa,44,Female,Homemaker,Faridabad,Jharkhand,2024-07-05,Fixed Deposit,290244.83,426,0-5L
+960755,Balhaar Palan,56,Other,Homemaker,Bhiwandi,Andhra Pradesh,2021-10-22,Savings,32858.76,404,10-20L
+187922,Yamini Arya,42,Other,Homemaker,Darbhanga,Odisha,2020-09-26,Current,331605.72,799,10-20L
+405877,Oni Gokhale,55,Other,Homemaker,Shimla,Madhya Pradesh,2020-12-16,Current,137003.81,365,20L+
+800947,Siya Mohan,66,Other,Teacher,Kadapa,Haryana,2024-08-28,Fixed Deposit,498889.05,621,20L+
+309021,Shivani Singh,50,Female,Homemaker,Bhiwandi,Tripura,2024-08-18,Fixed Deposit,409778.21,409,0-5L
+624396,Jacob Pau,54,Female,Student,Akola,Assam,2023-12-23,Savings,482925.06,655,5-10L
+832907,Abhimanyu Balakrishnan,37,Female,Teacher,Warangal,Haryana,2024-04-22,Fixed Deposit,406874.17,699,20L+
+580471,Hema Seshadri,44,Female,Teacher,Tadipatri,Gujarat,2020-08-19,Current,105801.79,322,5-10L
+440504,Ekani Wali,47,Female,Student,Munger,Himachal Pradesh,2021-08-15,Current,418289.47,871,0-5L
+614404,Wyatt Mani,63,Other,Teacher,Mango,Uttarakhand,2023-05-13,Current,68891.95,502,5-10L
+880706,Kashish Gola,56,Other,Student,Khammam,Punjab,2024-11-18,Savings,456177.52,851,5-10L
+650483,Utkarsh Sawhney,18,Male,Student,Ambarnath,Uttar Pradesh,2020-02-08,Savings,242909.9,853,10-20L
+463080,Nitesh Sarkar,34,Male,Business,South Dumdum,Rajasthan,2023-10-22,Fixed Deposit,486411.64,730,10-20L
+564669,Manbir Jhaveri,52,Other,Teacher,Noida,Arunachal Pradesh,2023-02-05,Fixed Deposit,253037.32,769,20L+
+141161,Advika Rana,23,Female,Teacher,Ajmer,Madhya Pradesh,2021-01-08,Fixed Deposit,117440.37,475,20L+
+754539,Chandani Barad,65,Male,Engineer,Thiruvananthapuram,Nagaland,2020-09-14,Current,225771.24,342,0-5L
+627795,Yutika Rout,50,Female,Engineer,Muzaffarpur,Assam,2024-09-28,Savings,16680.09,314,20L+
+671155,Nidra Luthra,40,Female,Business,Vasai-Virar,Madhya Pradesh,2020-03-01,Current,457818.38,714,5-10L
+642369,Ishaan Bhargava,20,Other,Student,Muzaffarpur,Kerala,2023-09-28,Fixed Deposit,252579.49,686,20L+
+1756,Samar Yogi,32,Female,Engineer,Agra,Uttarakhand,2025-01-04,Current,470471.23,459,5-10L
+444939,Laban Bhardwaj,41,Other,Doctor,Srinagar,Chhattisgarh,2024-09-18,Fixed Deposit,112132.68,347,0-5L
+160904,Charles Nair,62,Male,Teacher,Aurangabad,Goa,2020-11-22,Current,44743.13,398,20L+
+742762,Bhavya Tara,45,Female,Homemaker,Jaipur,Uttar Pradesh,2021-03-11,Savings,428558.03,751,20L+
+700093,Avi Nanda,26,Other,Homemaker,Jammu,Andhra Pradesh,2024-07-10,Fixed Deposit,444818.1,758,5-10L
+482788,Mekhala Nazareth,69,Male,Doctor,Bhalswa Jahangir Pur,Manipur,2021-09-03,Savings,458008.56,587,20L+
+332041,Simon Yohannan,34,Other,Teacher,Ramagundam,Madhya Pradesh,2021-04-26,Current,114607.42,769,10-20L
+889455,Vihaan Walia,44,Other,Business,Tirupati,Punjab,2021-04-01,Savings,291894.6,827,0-5L
+783665,Eiravati Murthy,40,Male,Homemaker,Chapra,Odisha,2022-02-23,Savings,243478.12,356,10-20L
+617231,Yatin Kaul,49,Male,Student,Rourkela,Meghalaya,2022-02-17,Savings,236110.52,599,20L+
+315183,Reyansh Sodhi,21,Male,Teacher,Malegaon,Bihar,2021-11-15,Fixed Deposit,109404.99,803,0-5L
+992452,Jackson Hegde,31,Other,Homemaker,Anantapur,Nagaland,2022-09-18,Savings,470080.24,601,5-10L
+434035,Balendra Dass,35,Male,Teacher,Sonipat,Jharkhand,2021-04-10,Savings,74382.56,604,10-20L
+405057,Neel Bhatnagar,24,Other,Engineer,Pune,Maharashtra,2023-10-01,Savings,187825.72,411,10-20L
+669194,Bhavani Lad,43,Male,Teacher,Morena,Himachal Pradesh,2024-07-12,Current,28466.35,720,5-10L
+150670,Triya Ramaswamy,63,Other,Homemaker,Mathura,Jharkhand,2023-07-25,Current,162627.81,472,20L+
+421853,Dayita Sekhon,53,Other,Homemaker,Bally,Mizoram,2021-04-08,Savings,185531.61,423,5-10L
+441962,Jason Kalla,18,Other,Doctor,Bhilai,Bihar,2021-06-02,Current,61798.7,485,5-10L
+939767,Amruta Iyengar,38,Other,Student,Buxar,Telangana,2024-12-12,Savings,371052.61,488,10-20L
+243427,Harini Venkataraman,22,Other,Business,Durgapur,Maharashtra,2024-06-09,Savings,200680.64,333,5-10L
+327820,Vihaan Sankaran,34,Female,Engineer,Katni,Jharkhand,2024-09-09,Current,255071.55,553,5-10L
+857472,Kala Mahajan,41,Female,Student,Siliguri,Madhya Pradesh,2020-01-21,Fixed Deposit,97688.34,489,20L+
+311513,Henry Sarna,19,Female,Student,Kishanganj,Odisha,2022-06-07,Current,248991.69,382,20L+
+640415,Ishanvi Sarkar,33,Male,Homemaker,Rewa,Jharkhand,2022-02-12,Savings,402794.33,892,10-20L
+959152,Neha Gara,64,Other,Business,Tiruchirappalli,Assam,2022-06-27,Savings,43874.38,545,10-20L
+290060,Pratyush Sehgal,33,Other,Teacher,Chandrapur,Andhra Pradesh,2024-11-24,Fixed Deposit,441090.66,766,20L+
+482587,Yashoda Karan,21,Other,Doctor,Ballia,Punjab,2020-01-31,Savings,166232.34,392,5-10L
+206369,Gautami Ramachandran,42,Female,Teacher,Hosur,Karnataka,2024-03-30,Fixed Deposit,93023.67,821,0-5L
+93889,Indira Thaker,32,Other,Teacher,Panipat,Nagaland,2024-08-05,Fixed Deposit,65934.2,597,20L+
+140431,Lohit Chad,28,Male,Homemaker,Indore,Odisha,2023-09-04,Savings,340122.0,385,10-20L
+350366,Chatresh Wable,45,Other,Doctor,Kharagpur,Sikkim,2022-04-01,Savings,3406.05,574,0-5L
+51890,Dayamai Desai,33,Male,Homemaker,Karaikudi,Andhra Pradesh,2021-09-15,Savings,42971.13,721,5-10L
+995935,Urishilla Basu,55,Female,Business,Tumkur,Kerala,2021-02-28,Current,287411.12,737,0-5L
+405216,Sathvik Sahota,37,Other,Homemaker,Loni,Chhattisgarh,2023-06-20,Savings,324439.36,490,5-10L
+184272,Geetika Rai,25,Other,Business,Tadipatri,Rajasthan,2022-06-11,Current,90926.46,494,10-20L
+532856,Darika Shanker,40,Female,Engineer,Purnia,Andhra Pradesh,2022-01-16,Savings,143401.86,394,20L+
+732854,Anjali Kala,23,Female,Engineer,Meerut,Arunachal Pradesh,2022-11-22,Fixed Deposit,99198.18,749,5-10L
+416024,Ikshita Wason,59,Other,Doctor,Madurai,West Bengal,2023-05-21,Savings,79201.12,705,5-10L
+23715,Eshana Chanda,63,Female,Student,Miryalaguda,Tripura,2021-01-28,Savings,406707.45,770,5-10L
+449588,Bhavini Shroff,59,Female,Homemaker,Guwahati,Madhya Pradesh,2020-12-07,Fixed Deposit,63345.67,653,10-20L
+753805,Vedhika Vyas,50,Other,Business,Kamarhati,Odisha,2021-06-09,Savings,207722.9,481,20L+
+171097,Samar Borra,62,Female,Teacher,Navi Mumbai,Assam,2022-08-03,Current,390668.16,587,10-20L
+418330,Isaac Chada,65,Female,Homemaker,Erode,Karnataka,2024-06-02,Fixed Deposit,239045.77,658,20L+
+181781,Anthony Doshi,19,Other,Business,Karawal Nagar,Haryana,2022-12-07,Savings,169611.0,842,10-20L
+486502,Jai Nath,61,Other,Doctor,Bettiah,Himachal Pradesh,2021-09-18,Fixed Deposit,162882.7,611,20L+
+239514,Dhriti Krishnamurthy,19,Female,Business,Ghaziabad,Punjab,2020-03-03,Current,376074.27,348,20L+
+782067,Upma Sahni,30,Female,Doctor,Bilaspur,Gujarat,2023-10-18,Savings,97117.83,643,10-20L
+762832,Watika Mane,30,Female,Engineer,Silchar,Punjab,2020-09-21,Fixed Deposit,127065.11,745,10-20L
+665630,Kalpit Agrawal,63,Female,Homemaker,Ajmer,Sikkim,2021-09-12,Current,450296.97,664,10-20L
+214197,Christopher Krishnan,24,Other,Engineer,Gaya,Arunachal Pradesh,2020-08-30,Fixed Deposit,169645.69,560,0-5L
+95298,Xalak Chauhan,24,Female,Homemaker,Rampur,Andhra Pradesh,2023-01-08,Current,314460.29,853,20L+
+238360,Unnati Pingle,50,Other,Student,Tadipatri,Uttarakhand,2024-07-29,Fixed Deposit,106779.93,819,5-10L
+898677,Vansha Doshi,67,Male,Student,Amravati,Manipur,2022-12-15,Fixed Deposit,485479.2,889,5-10L
+416909,Balendra Arora,48,Other,Business,Bahraich,Jharkhand,2024-03-25,Savings,143737.0,519,5-10L
+557861,Victor Borah,62,Male,Doctor,Mangalore,Odisha,2021-01-10,Fixed Deposit,141815.06,576,0-5L
+862255,Yashvi Gandhi,57,Other,Engineer,Coimbatore,Meghalaya,2022-04-24,Savings,405496.2,485,10-20L
+573938,Advay Tank,54,Other,Doctor,Karimnagar,Tripura,2020-02-18,Savings,485891.36,755,20L+
+429816,Sneha Sangha,32,Male,Student,Gopalpur,Sikkim,2020-11-23,Current,393484.58,778,10-20L
+844183,Hardik Deshpande,29,Female,Student,Nangloi Jat,Uttarakhand,2022-02-11,Current,208500.92,480,0-5L
+717139,Agastya Ranganathan,56,Female,Teacher,Mangalore,Telangana,2020-01-19,Savings,419407.21,602,10-20L
+348557,Henry Rout,64,Female,Student,Hubli–Dharwad,Mizoram,2024-12-01,Fixed Deposit,397998.01,418,10-20L
+961428,Gautam Nori,42,Female,Student,Kavali,Maharashtra,2020-04-14,Current,306399.31,304,10-20L
+984476,Kalpit Khare,43,Male,Student,Vijayanagaram,Tamil Nadu,2024-05-30,Savings,333925.75,385,10-20L
+834339,Fitan Chatterjee,63,Other,Engineer,Kulti,Manipur,2020-06-01,Current,41281.51,309,5-10L
+463394,Chaitaly Parmar,49,Male,Student,Sri Ganganagar,Uttar Pradesh,2020-12-24,Savings,269017.1,674,5-10L
+83521,Avi Acharya,28,Female,Engineer,Haridwar,Assam,2020-04-11,Savings,287847.82,829,20L+
+870439,Mugdha Bhargava,69,Male,Homemaker,Mira-Bhayandar,Haryana,2022-03-21,Fixed Deposit,251635.84,765,5-10L
+738632,Jeremiah Pall,35,Male,Homemaker,Dehri,Goa,2024-05-21,Savings,48788.94,371,20L+
+77748,Luke Deshpande,21,Male,Doctor,Madurai,Andhra Pradesh,2020-03-28,Fixed Deposit,446537.02,354,10-20L
+373759,Vamakshi Yogi,65,Other,Student,Gandhinagar,Jharkhand,2020-03-04,Fixed Deposit,358335.03,388,10-20L
+363965,Ishani Sathe,18,Female,Business,Madurai,Himachal Pradesh,2023-10-16,Current,111809.26,518,10-20L
+107123,Tripti Taneja,69,Male,Engineer,Sri Ganganagar,Gujarat,2021-04-29,Fixed Deposit,236583.86,836,5-10L
+272195,Abhimanyu Ramesh,60,Other,Homemaker,Adoni,Telangana,2023-05-08,Savings,464794.04,407,5-10L
+366346,Nidra Shroff,27,Female,Teacher,Bhopal,Gujarat,2020-02-18,Fixed Deposit,60927.06,698,0-5L
+620181,Michael Sathe,31,Female,Engineer,Khandwa,West Bengal,2021-03-11,Current,10253.68,875,20L+
+188232,Arjun Subramaniam,27,Female,Business,Baranagar,Goa,2020-11-24,Savings,350137.69,513,20L+
+690037,Sachi Tiwari,69,Female,Engineer,Davanagere,Tripura,2020-03-01,Fixed Deposit,391433.9,379,10-20L
+763127,Omaja Padmanabhan,69,Other,Student,Chandigarh,Chhattisgarh,2020-02-19,Savings,376885.2,756,5-10L
+974057,Vidhi Ahluwalia,44,Female,Teacher,Gaya,Himachal Pradesh,2022-12-05,Fixed Deposit,472626.66,485,10-20L
+842402,Kamya Goyal,66,Other,Business,Danapur,Nagaland,2020-10-21,Savings,322899.51,631,20L+
+136362,Baljiwan Salvi,38,Female,Business,Khora ,Himachal Pradesh,2021-11-13,Fixed Deposit,472242.21,866,0-5L
+973999,Unnati Amble,63,Other,Student,Dhanbad,Punjab,2021-09-29,Fixed Deposit,202034.33,399,5-10L
+937837,Yatan Aurora,24,Other,Student,Kolkata,Assam,2021-02-25,Savings,123962.56,640,20L+
+333481,Kashish Sanghvi,35,Other,Engineer,Darbhanga,Rajasthan,2020-03-17,Savings,265529.08,627,5-10L
+241442,Pallavi Narula,64,Other,Engineer,Unnao,Gujarat,2022-06-21,Savings,43042.67,589,5-10L
+687140,Barkha Kari,45,Male,Business,Sasaram,Manipur,2020-03-25,Savings,495692.91,334,5-10L
+92722,Manbir Bava,59,Other,Business,Kharagpur,Uttarakhand,2024-06-05,Current,403329.89,701,5-10L
+898095,Vaishnavi Rai,53,Other,Student,Mau,Uttarakhand,2021-02-13,Current,323588.49,341,0-5L
+733370,Jason Desai,62,Female,Business,Ramgarh,Gujarat,2020-08-07,Savings,290710.82,532,0-5L
+75479,Nicholas Mohanty,31,Female,Student,Raipur,Telangana,2022-07-02,Savings,5185.36,627,10-20L
+813290,Samarth Chada,38,Male,Engineer,Suryapet,Haryana,2022-03-10,Savings,411797.31,360,0-5L
+144066,Yatan Hayer,18,Male,Engineer,Satna,Himachal Pradesh,2024-03-24,Fixed Deposit,452123.95,604,0-5L
+435931,Upadhriti Samra,24,Male,Business,Bhind,Tamil Nadu,2024-03-24,Fixed Deposit,442163.1,766,10-20L
+373740,Girish Ramaswamy,50,Male,Engineer,Rourkela,Manipur,2024-01-17,Current,498893.91,319,0-5L
+419282,Raagini Seth,23,Other,Homemaker,Mumbai,West Bengal,2020-09-14,Current,121290.23,534,5-10L
+37036,Anthony Dyal,36,Other,Doctor,Anantapuram,Manipur,2021-06-24,Savings,61384.88,351,5-10L
+189352,Wazir Khosla,29,Other,Teacher,Medininagar,Haryana,2020-11-14,Savings,122746.47,398,5-10L
+221416,Upkaar Master,21,Male,Teacher,Shahjahanpur,Nagaland,2023-01-03,Current,40420.84,743,0-5L
+186209,Zayyan Sundaram,56,Other,Student,Burhanpur,Goa,2024-03-02,Savings,211885.37,336,20L+
+590389,Xiti Saxena,19,Male,Homemaker,Kharagpur,Karnataka,2023-08-13,Current,409621.95,368,0-5L
+804391,Osha Rattan,29,Male,Student,Jalandhar,Himachal Pradesh,2021-12-23,Current,157966.62,309,0-5L
+282204,Mason Mani,30,Other,Homemaker,Shahjahanpur,Meghalaya,2023-11-05,Savings,154395.1,575,5-10L
+557017,Urvi Kumar,36,Other,Teacher,Vasai-Virar,Nagaland,2021-03-16,Savings,125210.82,529,5-10L
+601215,Reyansh Mammen,22,Male,Homemaker,Kharagpur,Karnataka,2022-06-02,Current,419563.54,481,5-10L
+796171,Tara Banerjee,29,Other,Business,Motihari,Maharashtra,2024-12-08,Fixed Deposit,83647.07,840,5-10L
+616801,Madhavi Dewan,56,Female,Business,Avadi,Kerala,2023-02-10,Current,317094.15,303,20L+
+869036,Vedant Mishra,44,Other,Student,Baranagar,Gujarat,2022-08-25,Savings,307977.14,563,10-20L
+960430,Xalak Krishnan,32,Female,Student,Phagwara,Karnataka,2020-12-15,Savings,112578.6,497,20L+
+425987,Pooja Barman,30,Female,Business,Hyderabad,Maharashtra,2021-12-21,Savings,352898.33,782,5-10L
+482184,Qadim Sankar,37,Female,Student,Kolkata,Jharkhand,2024-09-01,Fixed Deposit,171372.04,875,20L+
+129587,Harshil Manne,63,Female,Student,Arrah,Assam,2022-12-10,Current,365448.91,852,5-10L
+659329,Quincy Mishra,45,Female,Engineer,Mysore,Maharashtra,2021-06-07,Fixed Deposit,291941.08,355,10-20L
+839364,Yoshita Varughese,46,Female,Homemaker,Rohtak,Meghalaya,2025-01-08,Fixed Deposit,263612.53,783,10-20L
+283909,Pavani Ramanathan,31,Female,Homemaker,Anand,Kerala,2021-01-28,Current,63071.13,394,10-20L
+874061,Sneha Bala,62,Male,Student,Machilipatnam,Andhra Pradesh,2020-07-02,Savings,306629.64,803,10-20L
+709727,Ekiya Desai,46,Female,Student,Aligarh,Himachal Pradesh,2023-02-19,Fixed Deposit,4674.68,475,5-10L
+74251,Qarin Bhasin,59,Female,Teacher,Udaipur,Bihar,2020-05-09,Current,347375.76,811,5-10L
+7593,Anay Dash,61,Female,Doctor,Panihati,West Bengal,2024-07-27,Current,183586.39,856,0-5L
+850153,Deepa Shere,33,Other,Business,Moradabad,Telangana,2023-05-17,Current,87332.68,391,0-5L
+979586,Forum Vohra,21,Male,Student,Ranchi,Maharashtra,2022-03-08,Fixed Deposit,246771.35,851,5-10L
+495006,Gauri Lal,56,Male,Business,Tiruppur,Tripura,2022-10-18,Savings,123642.55,338,0-5L
+460385,Unnati Konda,44,Male,Teacher,Bally,Chhattisgarh,2022-01-13,Fixed Deposit,191536.93,737,10-20L
+768218,Vidhi Chatterjee,35,Female,Student,Tenali,Tripura,2020-01-25,Savings,476123.67,851,10-20L
+249047,Anika Misra,57,Female,Student,Maheshtala,Kerala,2022-05-11,Fixed Deposit,360237.02,469,0-5L
+583214,Lajita Dass,54,Other,Business,Patiala,Meghalaya,2023-11-27,Current,495535.54,391,0-5L
+226142,Urmi Venkatesh,41,Male,Doctor,Haldia,Goa,2024-08-23,Current,20672.57,878,20L+
+832002,Fiyaz Rao,59,Other,Teacher,Bhilai,Sikkim,2021-11-27,Savings,306934.34,433,0-5L
+270006,Nimrat Pillai,55,Female,Business,Karawal Nagar,Kerala,2021-12-11,Current,159972.68,499,10-20L
+476689,Ubika Som,38,Male,Homemaker,Panchkula,Himachal Pradesh,2020-08-27,Savings,38899.76,433,10-20L
+669600,Raksha Shere,23,Male,Teacher,Bongaigaon,Tripura,2020-02-12,Savings,260155.58,548,20L+
+694707,Lila Prabhu,64,Other,Student,Ranchi,Tripura,2021-01-20,Savings,71059.86,440,5-10L
+226634,Timothy Choudhry,58,Male,Engineer,Alappuzha,Tamil Nadu,2020-08-05,Current,213372.67,676,5-10L
+418082,Lakshmi Wason,29,Female,Business,Hajipur,Jharkhand,2020-10-17,Savings,57872.93,338,20L+
+200085,Onveer Kumer,34,Male,Homemaker,Rourkela,Himachal Pradesh,2023-04-28,Fixed Deposit,93885.22,456,0-5L
+645408,Urishilla Mannan,62,Male,Business,Katni,West Bengal,2021-04-05,Current,231090.49,880,5-10L
+298042,Gautami Aggarwal,22,Other,Homemaker,Rampur,Uttarakhand,2024-07-07,Fixed Deposit,145208.96,592,0-5L
+747732,Gaurav Badami,23,Female,Student,Anantapur,Gujarat,2022-03-13,Current,366391.54,420,10-20L
+920549,Xiti Bhalla,59,Female,Student,Aizawl,Himachal Pradesh,2021-05-26,Fixed Deposit,462634.16,418,10-20L
+182192,Inaya Rai,45,Female,Engineer,Etawah,Bihar,2023-11-23,Fixed Deposit,128856.83,780,0-5L
+960252,Eiravati Raval,20,Other,Homemaker,Pali,Meghalaya,2023-09-19,Savings,5220.09,597,10-20L
+409072,Radha Mangal,36,Female,Student,Indore,Goa,2022-12-25,Fixed Deposit,312675.03,412,10-20L
+111050,Harshil Chhabra,68,Female,Doctor,Kharagpur,Assam,2021-05-08,Current,427008.41,899,5-10L
+203847,Sanaya Brahmbhatt,23,Male,Engineer,Narasaraopet,Karnataka,2020-03-17,Current,186729.73,764,10-20L
+536292,Chakradev Chander,54,Male,Doctor,Medininagar,Punjab,2023-10-03,Savings,165157.56,874,0-5L
+949091,Amaira Garde,61,Other,Business,Mahbubnagar,Himachal Pradesh,2021-05-05,Savings,28960.69,660,20L+
+602984,Jhalak Vasa,39,Other,Business,Bhavnagar,Gujarat,2022-10-19,Fixed Deposit,321821.38,424,5-10L
+464506,Divya Dugar,48,Other,Student,Mango,Kerala,2022-04-20,Savings,33028.21,466,10-20L
+374300,Varenya Menon,41,Other,Doctor,Amroha,Uttar Pradesh,2024-09-17,Fixed Deposit,337300.45,545,0-5L
+404447,Ishita Luthra,49,Female,Homemaker,Malda,Gujarat,2021-12-26,Savings,98778.02,581,10-20L
+973335,Raagini Hari,39,Male,Homemaker,Silchar,Madhya Pradesh,2024-10-12,Savings,16707.01,456,5-10L
+125097,Indali Naik,35,Other,Homemaker,Chandigarh,Assam,2024-11-29,Current,23272.44,660,0-5L
+832920,Yoshita Sant,41,Other,Teacher,Proddatur,Mizoram,2020-06-25,Current,58988.95,840,10-20L
+319210,Aadi Rajagopal,25,Female,Teacher,Dindigul,Meghalaya,2024-08-09,Savings,147596.47,751,20L+
+347854,Manya Puri,62,Other,Doctor,Navi Mumbai,Chhattisgarh,2023-10-02,Fixed Deposit,67827.09,645,10-20L
+712739,Chaaya Mani,26,Other,Student,Coimbatore,Uttarakhand,2020-10-30,Savings,27302.93,806,10-20L
+444534,Brinda Arora,52,Male,Business,Dharmavaram,Andhra Pradesh,2022-01-27,Fixed Deposit,385612.25,538,20L+
+617151,Falak De,50,Other,Student,Raipur,Chhattisgarh,2020-03-06,Current,330021.21,422,5-10L
+919909,Chanchal Mohan,44,Other,Engineer,Hyderabad,Assam,2021-04-25,Fixed Deposit,48501.9,521,0-5L
+673366,Brinda Shroff,59,Other,Doctor,Bhatpara,Gujarat,2020-09-21,Current,197859.17,603,10-20L
+528889,Vincent Bajwa,36,Male,Student,Jehanabad,Bihar,2025-01-07,Current,434174.25,801,0-5L
+286614,Indrajit Sabharwal,32,Male,Doctor,Berhampur,Haryana,2024-03-02,Savings,249784.26,457,0-5L
+827942,Faras Khanna,41,Other,Teacher,Guwahati,Punjab,2020-04-04,Current,303759.63,704,0-5L
+563306,Vinaya Sodhi,66,Male,Student,Dhanbad,Sikkim,2023-03-10,Current,135882.34,562,0-5L
+376085,Gauri Seshadri,50,Female,Homemaker,Tadipatri,Himachal Pradesh,2020-02-20,Savings,45565.45,328,0-5L
+851531,Chanchal Mall,31,Other,Engineer,Fatehpur,Jharkhand,2024-08-08,Current,113988.42,655,10-20L
+171495,Caleb Peri,64,Other,Doctor,Unnao,Arunachal Pradesh,2023-11-30,Fixed Deposit,318453.47,377,5-10L
+299035,Yadavi Madan,61,Female,Business,Udaipur,Meghalaya,2023-09-27,Savings,87013.14,657,10-20L
+499342,Anusha Shankar,22,Female,Homemaker,Delhi,Kerala,2022-09-11,Fixed Deposit,52867.9,726,0-5L
+736709,Onveer Sehgal,51,Other,Doctor,Pimpri-Chinchwad,Andhra Pradesh,2023-11-05,Savings,231227.1,828,10-20L
+857427,Wriddhish Gandhi,58,Female,Student,Bidhannagar,Chhattisgarh,2023-05-07,Current,315945.93,366,20L+
+767638,Udarsh Pillai,67,Female,Doctor,Visakhapatnam,Tripura,2021-08-22,Savings,258365.23,896,5-10L
+939087,Nirja Purohit,37,Female,Teacher,Jabalpur,Goa,2022-03-29,Current,261877.3,427,10-20L
+976327,Abdul Khare,39,Female,Student,Karimnagar,Uttarakhand,2024-11-18,Current,87079.99,873,5-10L
+827705,Wridesh Dutta,33,Other,Business,Kozhikode,Tamil Nadu,2020-09-04,Current,165224.56,685,20L+
+699478,Sanya Bains,58,Other,Engineer,Akola,Arunachal Pradesh,2023-08-21,Fixed Deposit,473381.25,858,0-5L
+50594,Anita Radhakrishnan,39,Male,Homemaker,Bijapur,Goa,2020-05-14,Savings,144249.29,423,0-5L
+181664,Wriddhish Dewan,57,Other,Student,Hindupur,Mizoram,2023-05-12,Savings,461196.44,893,0-5L
+113816,Kala Borah,34,Other,Homemaker,Gurgaon,Punjab,2022-01-23,Current,52836.31,405,0-5L
+578666,Radhika Majumdar,39,Female,Homemaker,Pallavaram,Karnataka,2021-02-24,Current,131720.15,435,10-20L
+548344,Lekha Sekhon,26,Other,Teacher,Sambhal,Mizoram,2023-10-20,Savings,293822.61,364,5-10L
+87647,Andrew Badal,41,Female,Homemaker,Vellore,Kerala,2023-02-05,Savings,347378.15,563,10-20L
+855229,Baljiwan Brahmbhatt,24,Other,Business,Darbhanga,Madhya Pradesh,2022-03-04,Savings,124256.38,886,5-10L
+624623,Teerth Chaudhry,46,Male,Teacher,Vijayanagaram,Gujarat,2020-02-24,Current,163810.65,355,10-20L
+806981,Anthony Amble,18,Male,Business,Ujjain,West Bengal,2021-08-08,Savings,59622.45,849,10-20L
+889631,Hardik Sarin,39,Male,Homemaker,Hazaribagh,Odisha,2022-12-23,Fixed Deposit,166178.55,459,20L+
+927322,Chandresh Sankaran,27,Male,Business,Nandyal,Uttarakhand,2021-12-29,Savings,370630.89,838,10-20L
+917367,Girish Mahajan,51,Male,Student,South Dumdum,Maharashtra,2022-01-24,Fixed Deposit,164304.81,713,20L+
+895766,Samaksh Ahluwalia,36,Female,Doctor,Ratlam,West Bengal,2021-04-02,Savings,315302.46,382,0-5L
+397677,Samarth Borah,48,Female,Engineer,Ghaziabad,Rajasthan,2024-05-13,Fixed Deposit,364815.35,513,20L+
+995860,Hardik Lala,19,Other,Teacher,Nagercoil,Himachal Pradesh,2023-11-03,Savings,318492.59,895,10-20L
+394883,Teerth Patil,48,Other,Doctor,Maheshtala,Chhattisgarh,2024-03-23,Current,122628.1,602,0-5L
+347879,Yauvani Radhakrishnan,23,Female,Doctor,Unnao,Kerala,2023-01-11,Current,38691.48,465,0-5L
+773797,Bhavika Panchal,63,Female,Student,Aligarh,Sikkim,2021-01-13,Savings,209872.53,809,10-20L
+714488,Aachal Dhar,20,Female,Engineer,Jalgaon,Jharkhand,2020-08-23,Current,350784.15,321,20L+
+479505,Udant Sabharwal,37,Female,Business,Dehri,Andhra Pradesh,2022-11-23,Fixed Deposit,238018.82,756,5-10L
+531482,Oeshi Bumb,32,Other,Student,Rajahmundry,Madhya Pradesh,2024-09-21,Current,252727.82,870,0-5L
+177424,Vihaan Pau,68,Other,Student,Thoothukudi,Bihar,2020-04-25,Savings,230053.22,508,20L+
+985964,Nidra Sahota,23,Male,Business,Farrukhabad,Mizoram,2022-03-17,Fixed Deposit,370280.27,414,5-10L
+188209,Oscar Arora,68,Male,Teacher,Kottayam,Karnataka,2020-05-01,Fixed Deposit,393018.24,640,10-20L
+675125,Jacob Prabhu,45,Other,Teacher,Phagwara,Odisha,2020-12-30,Savings,371169.71,357,0-5L
+906370,Veda Rattan,66,Other,Doctor,Khammam,Manipur,2023-05-02,Savings,485963.63,562,20L+
+59310,Orinder Tara,29,Other,Student,Korba,Nagaland,2024-01-27,Fixed Deposit,25075.21,836,10-20L
+33937,Varsha Varughese,25,Female,Engineer,Farrukhabad,Assam,2023-07-28,Current,360874.05,414,20L+
+785074,Brinda Roy,58,Other,Teacher,Chapra,Arunachal Pradesh,2024-09-07,Current,230574.65,884,5-10L
+183075,Chandresh Varughese,19,Other,Business,Bilaspur,Punjab,2020-09-03,Fixed Deposit,265250.05,383,10-20L
+373811,Kevin Oza,34,Other,Teacher,Nagpur,Assam,2024-06-08,Savings,118287.2,818,20L+
+931765,Zarna Parmar,35,Female,Student,Burhanpur,Gujarat,2024-11-26,Fixed Deposit,432595.93,326,20L+
+978137,Aadhya Shah,60,Male,Student,Alwar,Mizoram,2023-07-07,Savings,67984.28,613,0-5L
+152564,Mekhala Kunda,65,Male,Business,Rewa,Uttar Pradesh,2023-10-15,Savings,179712.27,655,0-5L
+486971,Pallavi Sandhu,34,Male,Engineer,Satara,Goa,2021-05-29,Fixed Deposit,438007.79,657,10-20L
+216911,Oliver Mitter,34,Other,Engineer,Bally,Rajasthan,2021-12-09,Fixed Deposit,421994.01,335,5-10L
+493632,Ishanvi Memon,58,Male,Doctor,Loni,Telangana,2025-01-12,Savings,91090.83,484,0-5L
+128141,Yashodhara Bath,59,Other,Homemaker,Jalgaon,Chhattisgarh,2023-10-06,Fixed Deposit,417015.17,409,10-20L
+447910,Zaitra Ravi,19,Male,Teacher,Munger,Punjab,2022-09-01,Fixed Deposit,157557.53,683,0-5L
+286730,Ansh Dube,61,Male,Business,Davanagere,Punjab,2024-05-19,Fixed Deposit,8205.91,643,20L+
+264540,Rudra Natarajan,32,Male,Student,Jodhpur,Himachal Pradesh,2022-12-04,Current,448279.25,385,20L+
+548913,Yauvani Shenoy,41,Other,Business,Gudivada,Himachal Pradesh,2021-07-12,Fixed Deposit,67753.11,423,10-20L
+178390,Netra Raman,47,Male,Engineer,Raiganj,Meghalaya,2023-07-07,Savings,142699.57,659,0-5L
+315671,Nathan Naidu,25,Other,Business,Nandyal,Kerala,2022-09-06,Fixed Deposit,135951.02,650,20L+
+664985,Indira Subramaniam,47,Female,Teacher,Saharanpur,West Bengal,2024-08-30,Fixed Deposit,399782.25,684,5-10L
+367333,Janani Gola,25,Female,Engineer,Purnia,Odisha,2023-05-09,Fixed Deposit,134341.23,807,0-5L
+973606,Jeevika Mallick,45,Female,Student,Guna,Jharkhand,2024-07-07,Fixed Deposit,142804.39,477,0-5L
+271714,Aahana Golla,23,Male,Teacher,Sagar,Meghalaya,2023-07-17,Current,64784.12,562,5-10L
+497313,Jasmit Bumb,44,Female,Homemaker,Dehri,Uttarakhand,2021-12-02,Current,267261.9,534,5-10L
+966208,Max Prabhu,59,Other,Homemaker,Panchkula,Uttarakhand,2024-04-26,Fixed Deposit,395651.25,855,10-20L
+387303,Sachi Shah,60,Other,Business,Jamnagar,Uttarakhand,2021-09-05,Savings,391364.22,391,0-5L
+320868,Rishi Vala,30,Female,Engineer,Asansol,Punjab,2024-05-05,Current,51876.6,773,5-10L
+244410,Aditya Shenoy,37,Male,Homemaker,Machilipatnam,Tripura,2024-06-13,Fixed Deposit,329072.12,671,20L+
+949405,Ekiya Dey,56,Female,Doctor,Gaya,Bihar,2020-09-12,Current,423357.4,821,5-10L
+192228,Jagat Kapur,26,Male,Homemaker,Thiruvananthapuram,Rajasthan,2020-07-30,Current,87802.79,434,10-20L
+222738,Hemal Sehgal,28,Female,Engineer,Junagadh,Telangana,2020-06-02,Savings,362339.86,463,0-5L
+706364,Yachana Oza,24,Other,Student,Udaipur,Himachal Pradesh,2024-07-20,Savings,328910.31,431,10-20L
+624320,Om Bose,52,Female,Business,Jorhat,Haryana,2021-07-20,Savings,266972.6,739,20L+
+842413,Chatresh Mann,22,Male,Teacher,Jehanabad,Goa,2020-08-12,Savings,317086.79,858,10-20L
+696489,Darsh Acharya,24,Other,Business,Surat,Nagaland,2022-03-02,Current,237800.84,594,0-5L
+712191,Samarth Vora,56,Other,Student,Bhavnagar,Rajasthan,2024-08-30,Fixed Deposit,343928.32,899,10-20L
+755569,Ira Acharya,30,Male,Teacher,Warangal,Mizoram,2023-05-13,Savings,319244.59,581,10-20L
+918743,Bhanumati Bumb,58,Female,Engineer,Danapur,Andhra Pradesh,2021-11-15,Savings,323849.77,560,5-10L
+956985,Qushi Lanka,27,Female,Homemaker,Kollam,Chhattisgarh,2024-07-28,Fixed Deposit,218226.98,804,20L+
+324224,Maya Aurora,29,Other,Homemaker,Mehsana,Sikkim,2022-02-15,Fixed Deposit,7466.67,491,10-20L
+223210,Wyatt Dave,57,Male,Student,Uluberia,Odisha,2023-07-09,Fixed Deposit,108207.47,368,10-20L
+15904,Jeet Kala,18,Other,Business,Hindupur,West Bengal,2021-04-09,Fixed Deposit,481716.06,763,0-5L
+468650,Aahana Pau,59,Female,Student,Mehsana,Uttar Pradesh,2022-11-01,Savings,276091.26,791,0-5L
+118926,Zarna Nigam,55,Other,Business,Bhagalpur,Odisha,2024-06-01,Fixed Deposit,481048.18,834,0-5L
+978436,Rachita Sule,42,Female,Homemaker,Shimla,West Bengal,2023-08-22,Savings,353268.91,389,10-20L
+323492,Vihaan Bahl,54,Other,Homemaker,Ulhasnagar,Nagaland,2022-11-20,Savings,277353.82,802,20L+
+363268,Zaid Shere,61,Female,Doctor,Bhatpara,West Bengal,2023-07-26,Current,300478.21,810,20L+
+120568,Ekavir Kar,67,Other,Business,Hapur,Andhra Pradesh,2024-07-07,Savings,87622.37,618,5-10L
+105092,Qarin Konda,60,Other,Business,Sasaram,Nagaland,2024-12-21,Savings,484737.18,379,0-5L
+892278,Keya Rajan,23,Female,Engineer,Jaunpur,West Bengal,2023-09-05,Current,284704.36,698,10-20L
+422077,Vanya Chowdhury,69,Other,Doctor,Tinsukia,Uttar Pradesh,2024-12-01,Fixed Deposit,42769.08,484,20L+
+688651,Isaiah Manne,36,Other,Student,Coimbatore,Goa,2023-11-21,Current,210086.75,704,5-10L
+213996,Qarin Aggarwal,49,Male,Doctor,Noida,Rajasthan,2024-03-10,Fixed Deposit,137988.17,834,5-10L
+487313,Yasti Sandhu,67,Female,Teacher,Barasat,Bihar,2024-11-13,Current,17182.96,870,0-5L
+446769,Ekansh Pathak,38,Other,Business,Pali,Meghalaya,2021-02-13,Savings,224975.4,786,20L+
+877215,Arunima Ram,59,Other,Doctor,Kollam,Meghalaya,2021-11-10,Savings,201527.71,647,10-20L
+109782,Aachal Mane,43,Other,Engineer,Rajpur Sonarpur,Madhya Pradesh,2023-01-23,Fixed Deposit,363185.8,664,5-10L
+946240,Yash Soni,34,Female,Doctor,Phusro,Goa,2020-09-27,Fixed Deposit,332608.87,884,5-10L
+150765,Tristan Madan,23,Male,Business,Surendranagar Dudhrej,Punjab,2021-07-07,Savings,331587.45,845,5-10L
+67376,Mason Kaur,21,Other,Engineer,Bhilwara,Odisha,2023-04-08,Fixed Deposit,47971.68,383,10-20L
+886675,Ekaja Sanghvi,61,Male,Business,Asansol,West Bengal,2021-05-28,Fixed Deposit,1168.75,686,5-10L
+208107,Amol Sami,31,Male,Doctor,Cuttack,Sikkim,2021-12-23,Savings,268009.65,660,20L+
+143773,Sanaya Bhakta,18,Male,Teacher,Agartala,Uttarakhand,2020-11-13,Current,483290.91,751,20L+
+680805,Wridesh Goswami,55,Male,Doctor,Gwalior,Telangana,2024-12-23,Current,6959.76,379,5-10L
+530310,Zarna Raja,39,Male,Business,Tiruppur,Arunachal Pradesh,2023-09-04,Current,302400.16,374,10-20L
+231211,Aahana Zachariah,24,Male,Teacher,Aligarh,Goa,2021-08-20,Savings,140431.29,314,0-5L
+848524,Jhalak Sen,37,Other,Teacher,Kharagpur,Gujarat,2021-04-25,Savings,359400.76,431,10-20L
+728399,George Natt,45,Male,Homemaker,Hindupur,West Bengal,2022-06-25,Savings,116937.63,335,20L+
+412656,Lajita Bir,61,Male,Homemaker,Shivpuri,Sikkim,2023-06-02,Savings,422075.46,790,0-5L
+359006,Dhruv Mohanty,66,Female,Homemaker,Farrukhabad,Karnataka,2022-04-12,Current,67698.44,479,5-10L
+494523,Falguni Prasad,38,Female,Teacher,Jamalpur,Himachal Pradesh,2024-11-08,Savings,163849.33,374,0-5L
+897229,Mitali Nayak,23,Female,Business,Lucknow,Arunachal Pradesh,2023-03-25,Savings,23540.13,493,5-10L
+454864,Indali Gera,24,Male,Teacher,Junagadh,Sikkim,2021-02-02,Savings,331701.27,871,20L+
+603650,Nirja Pall,25,Male,Doctor,Giridih,Manipur,2024-09-02,Fixed Deposit,171015.46,746,0-5L
+427156,Vrinda Barad,66,Female,Doctor,Munger,Rajasthan,2021-10-21,Current,114806.05,302,10-20L
+336258,Nicholas Balay,31,Other,Homemaker,Morbi,Uttar Pradesh,2023-11-05,Fixed Deposit,237490.88,370,10-20L
+996742,Ojasvi Saini,57,Male,Teacher,Bhilwara,Tamil Nadu,2024-01-11,Savings,427176.28,354,0-5L
+944405,Vedant Goswami,60,Male,Student,Kishanganj,Rajasthan,2023-10-29,Fixed Deposit,467073.25,609,5-10L
+550330,Yuvraj Malhotra,38,Female,Teacher,Rajahmundry,Tripura,2020-07-12,Current,180838.84,425,10-20L
+105663,Jai Parsa,65,Other,Homemaker,Bhiwani,Jharkhand,2024-03-24,Current,461257.59,828,5-10L
+903423,Yasti Narayanan,49,Male,Homemaker,Amravati,West Bengal,2020-02-25,Savings,76457.81,634,10-20L
+904856,Wriddhish Hayre,24,Other,Student,Shimla,Bihar,2024-10-10,Current,411419.98,357,10-20L
+220250,Ekantika Ganesh,23,Female,Business,Surat,Tamil Nadu,2021-02-22,Current,45578.43,598,0-5L
+153884,Jeevika Agarwal,44,Male,Engineer,Bathinda,Punjab,2021-03-02,Savings,427959.21,381,0-5L
+877770,Eesha Modi,27,Other,Student,Giridih,Uttarakhand,2024-11-16,Fixed Deposit,172812.97,554,5-10L
+393458,Manya Devi,48,Other,Homemaker,Anantapuram,West Bengal,2024-04-06,Current,70612.21,423,0-5L
+510170,Vasana Rattan,68,Male,Homemaker,Hyderabad,Jharkhand,2021-04-24,Savings,41648.01,712,0-5L
+774748,Brinda Rai,54,Female,Business,Mehsana,Arunachal Pradesh,2022-09-01,Current,214677.3,619,10-20L
+714170,Hemal Raval,26,Male,Student,Tiruvottiyur,Chhattisgarh,2022-01-01,Current,415649.01,475,20L+
+533545,Yash Memon,63,Female,Engineer,Panvel,Arunachal Pradesh,2023-08-05,Fixed Deposit,97410.29,799,5-10L
+564322,Yug Jhaveri,43,Female,Student,Rampur,Meghalaya,2024-02-07,Savings,495575.57,499,5-10L
+277391,Neelima Mallick,50,Male,Business,Gurgaon,Manipur,2022-02-08,Savings,57125.5,560,0-5L
+169436,Krishna Karnik,55,Male,Teacher,Bahraich,Chhattisgarh,2020-11-16,Current,477899.01,863,0-5L
+4821,Harish Gupta,63,Other,Teacher,Karaikudi,Jharkhand,2022-04-29,Fixed Deposit,478699.44,602,0-5L
+950030,Adweta Parikh,39,Female,Business,Agra,Himachal Pradesh,2021-02-03,Fixed Deposit,103006.07,724,5-10L
+850481,Frado Venkatesh,25,Male,Student,Gorakhpur,Karnataka,2021-11-25,Current,487362.19,350,5-10L
+16810,Kavya Dey,34,Female,Homemaker,Bhimavaram,Bihar,2021-06-01,Fixed Deposit,99149.54,392,10-20L
+359124,Ishaan Sachar,66,Other,Teacher,Jorhat,Odisha,2020-09-20,Fixed Deposit,207075.74,857,10-20L
+51228,Lucky Amble,18,Other,Homemaker,Rohtak,Jharkhand,2022-04-15,Savings,80878.06,524,5-10L
+89301,Zehaan Dugal,55,Other,Homemaker,Adoni,Manipur,2023-02-06,Savings,486752.18,578,0-5L
+142729,Darpan Dani,42,Other,Teacher,Kalyan-Dombivli,Haryana,2020-02-20,Savings,435824.69,339,0-5L
+749682,Zaid Narayan,37,Female,Doctor,Kadapa,Haryana,2021-10-16,Fixed Deposit,469450.39,689,5-10L
+827531,Ryan Pal,55,Male,Student,Tiruppur,Arunachal Pradesh,2024-07-31,Savings,307791.53,707,10-20L
+430643,Vaishnavi Anne,63,Male,Student,Tezpur,Himachal Pradesh,2020-06-05,Current,123367.78,499,20L+
+770176,Ira Master,32,Other,Teacher,Aurangabad,West Bengal,2023-05-19,Savings,213099.16,738,20L+
+838231,Zaitra Khurana,32,Other,Engineer,Siliguri,Himachal Pradesh,2022-09-16,Fixed Deposit,57274.16,555,10-20L
+22589,Mohini Raja,39,Other,Business,Bhatpara,Odisha,2022-03-22,Fixed Deposit,499344.78,629,5-10L
+160690,Falak Vora,61,Male,Business,Saharanpur,Goa,2023-12-16,Current,169409.47,737,0-5L
+598741,Tanish Dada,58,Male,Homemaker,Bardhaman,Assam,2021-08-06,Current,8499.64,694,0-5L
+854512,Vasudha Chhabra,39,Other,Engineer,Bellary,Kerala,2021-06-16,Current,102097.93,478,10-20L
+316322,Gayathri Chaudhari,66,Male,Student,Aurangabad,Andhra Pradesh,2020-05-23,Fixed Deposit,251441.34,719,20L+
+114248,Upma Sharma,37,Female,Business,Raipur,Kerala,2021-08-13,Fixed Deposit,328599.98,877,10-20L
+116374,Nathaniel Pillay,48,Male,Engineer,Aizawl,Andhra Pradesh,2022-02-04,Current,190375.72,410,10-20L
+241908,Aradhana Nayar,27,Male,Teacher,Saharanpur,Chhattisgarh,2023-07-02,Fixed Deposit,58262.41,869,10-20L
+482339,Ansh Modi,48,Male,Doctor,Berhampur,Manipur,2020-04-11,Fixed Deposit,347560.82,720,20L+
+870714,Aashi Vala,44,Male,Engineer,Berhampore,Sikkim,2020-11-18,Fixed Deposit,395037.34,634,0-5L
+882266,Ishani Merchant,55,Other,Doctor,Machilipatnam,Odisha,2021-09-30,Current,309297.46,579,5-10L
+58285,Advay Rai,58,Other,Engineer,Erode,Manipur,2021-10-07,Current,480033.42,531,0-5L
+36934,Vasudha Khalsa,34,Male,Teacher,Ahmedabad,Madhya Pradesh,2022-09-25,Savings,332555.1,416,20L+
+570829,Anya Chaudry,19,Male,Business,Bulandshahr,Mizoram,2021-09-09,Fixed Deposit,397047.68,592,0-5L
+289384,Henry Pau,20,Other,Student,Raipur,Uttar Pradesh,2024-12-10,Fixed Deposit,398725.92,727,5-10L
+425037,Vihaan Bal,51,Female,Engineer,Rourkela,Meghalaya,2023-03-16,Fixed Deposit,29961.29,485,0-5L
+698382,Akshay Shukla,30,Female,Engineer,Gopalpur,Himachal Pradesh,2025-01-15,Current,171257.58,570,0-5L
+789066,Aashi Pandey,57,Male,Doctor,Khammam,Uttar Pradesh,2023-09-01,Current,30667.33,358,10-20L
+675904,Fiyaz Varma,34,Female,Engineer,Surat,Nagaland,2023-09-26,Savings,497805.21,641,0-5L
+801109,Neelima Parekh,47,Female,Doctor,Gulbarga,Tamil Nadu,2023-04-17,Fixed Deposit,169000.91,548,10-20L
+634324,Madhav Sengupta,22,Female,Business,Haridwar,West Bengal,2020-09-28,Current,423524.77,677,0-5L
+775160,Wriddhish Kanda,52,Female,Student,Kochi,Chhattisgarh,2022-05-01,Current,81030.13,364,0-5L
+467992,Unni Ramakrishnan,38,Male,Engineer,Shimoga,Kerala,2022-03-14,Fixed Deposit,347020.86,885,0-5L
+363220,Agastya Lata,43,Other,Engineer,Orai,Punjab,2024-11-10,Fixed Deposit,50330.67,748,0-5L
+899151,Yug De,24,Other,Teacher,Secunderabad,Himachal Pradesh,2022-04-30,Fixed Deposit,490775.28,526,0-5L
+160454,Chakradhar Atwal,25,Other,Business,Sagar,Telangana,2023-06-09,Savings,169327.97,525,5-10L
+561701,Tanish Chauhan,52,Male,Business,Gaya,Chhattisgarh,2022-01-08,Fixed Deposit,214698.63,826,0-5L
+764799,Tanveer Gera,62,Other,Engineer,Amroha,Arunachal Pradesh,2023-11-06,Current,162104.49,506,5-10L
+155273,Girindra Jain,61,Other,Teacher,Haridwar,Uttar Pradesh,2020-03-01,Current,299318.27,417,5-10L
+905556,Sai Comar,51,Female,Homemaker,Firozabad,Assam,2022-04-20,Fixed Deposit,268580.32,667,20L+
+445911,Bhavika Khosla,62,Female,Engineer,Amaravati,Meghalaya,2021-09-28,Current,453337.92,715,0-5L
+208842,Dominic Thaman,50,Other,Doctor,Sambalpur,Uttar Pradesh,2022-12-12,Savings,218997.69,580,5-10L
+449855,Pratyush Rege,59,Female,Teacher,Alappuzha,Arunachal Pradesh,2020-07-09,Current,389464.6,595,5-10L
+735380,Finn Viswanathan,31,Female,Student,Munger,Nagaland,2020-08-27,Savings,400548.44,788,0-5L
+838919,Yashoda Bhatti,60,Male,Engineer,Chandigarh,Andhra Pradesh,2023-06-16,Fixed Deposit,67208.68,757,20L+
+133447,Dominic Kaul,65,Female,Doctor,Avadi,Bihar,2024-10-24,Current,12545.9,885,10-20L
+194224,Nihal Hari,18,Other,Doctor,Khandwa,Tripura,2023-07-21,Current,178018.56,538,10-20L
+21174,Ekiya Vala,49,Other,Engineer,Lucknow,West Bengal,2022-09-23,Savings,423513.47,557,0-5L
+176317,Harinakshi Thaman,33,Other,Teacher,Jammu,Odisha,2023-01-08,Current,351229.6,536,5-10L
+19689,Aachal Nagy,37,Male,Homemaker,Malda,Kerala,2023-01-26,Current,183020.92,810,0-5L
+371804,Joshua Babu,64,Other,Business,Dehradun,Jharkhand,2020-01-27,Fixed Deposit,410119.99,587,0-5L
+33573,Advika Saran,35,Other,Teacher,Bongaigaon,Mizoram,2022-01-08,Current,59925.79,413,5-10L
+834090,Janani Chana,65,Male,Doctor,Chandigarh,Andhra Pradesh,2021-09-28,Savings,161860.51,789,10-20L
+324196,Damyanti Kala,33,Female,Doctor,Agra,Tamil Nadu,2023-10-11,Savings,422533.05,691,10-20L
+555525,Reyansh Dave,58,Female,Student,Bhopal,Maharashtra,2020-07-12,Savings,446774.71,529,0-5L
+902799,Anya Nadig,31,Male,Doctor,Warangal,Maharashtra,2020-11-22,Fixed Deposit,379022.45,858,20L+
+75697,Lajita Sunder,44,Other,Doctor,Arrah,Haryana,2022-12-12,Current,14348.21,637,0-5L
+825065,Rajeshri Kadakia,53,Male,Business,Hyderabad,Goa,2021-01-17,Current,427097.74,548,10-20L
